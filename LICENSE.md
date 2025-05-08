@@ -1,63 +1,28 @@
-# Licence Duale
+# Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-Ce tutoriel est publié sous une licence duale comme décrit ci-dessous.
+Copyright (c) 2025 Nicolas DEOUX (NDXDev@gmail.com)
 
-## Contenu Textuel, Images et Médias
+Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
-Tout le contenu textuel explicatif, les images, et autres médias non-code sont publiés sous la licence
-Creative Commons Attribution 4.0 International (CC BY 4.0).
+## Vous êtes autorisé à :
 
-Vous êtes libre de :
-- Partager — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
-- Adapter — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
+- **Adapter** — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale
 
-Selon les conditions suivantes :
-- Attribution — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications
-  ont été effectuées à l'Œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables,
-  sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Œuvre.
+L'Offrant ne peut retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
-Le texte complet de la licence CC BY 4.0 est disponible à :
-https://creativecommons.org/licenses/by/4.0/legalcode.fr
+## Selon les conditions suivantes :
 
-## Code Source et Exemples
+- **Attribution** — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Œuvre.
 
-Tout le code source, les exemples de code, les fichiers de configuration et autres éléments de
-programmation sont publiés sous la licence MIT.
+- **Pas de restrictions complémentaires** — Vous n'êtes pas autorisé à appliquer des termes juridiques ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Œuvre dans les conditions décrites par la licence.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Avis :
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Vous n'êtes pas tenu de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l'utilisation que vous souhaitez faire est couverte par une exception.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Aucune garantie n'est donnée. Il se peut que la licence ne vous donne pas toutes les permissions nécessaires pour votre utilisation. Par exemple, certains droits comme les droits moraux, le droit des données personnelles et le droit à l'image sont susceptibles de limiter votre utilisation.
 
-## Interprétation
+---
 
-En cas de doute :
-- Les extraits de code intégrés dans le texte explicatif sont considérés comme étant sous licence MIT.
-- Les explications techniques, même si elles décrivent du code, sont considérées comme du contenu
-  textuel sous licence CC BY 4.0.
-- Les fichiers de projet complets dans les répertoires d'exemples sont sous licence MIT.
-
-## Attribution
-
-Pour attribuer correctement ce tutoriel, veuillez inclure la mention suivante :
-
-"Tutoriel C#" par Nicolas DEOUX, disponible à https://github.com/NDXDeveloper/slashsum
-sous licences CC BY 4.0 et MIT.
-
-## Contact
-
-Pour toute question concernant la licence ou pour obtenir des permissions au-delà
-de cette licence, veuillez contacter NDXDev@gmail.com.
+Pour voir une copie de cette licence, visitez [https://creativecommons.org/licenses/by/4.0/legalcode.fr](https://creativecommons.org/licenses/by/4.0/legalcode.fr) ou écrivez à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

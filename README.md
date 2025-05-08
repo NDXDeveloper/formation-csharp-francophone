@@ -32,7 +32,7 @@ La formation est organisée en chapitres progressifs, du plus simple au plus com
 
 Vous pouvez suivre le cours linéairement ou piocher les chapitres qui vous intéressent selon votre niveau et vos besoins.
 
-Pour découvrir le contenu détaillé, consultez le fichier [./SOMMAIRE.md](SOMMAIRE.md).
+Pour découvrir le contenu détaillé, consultez le fichier [SOMMAIRE.md](SOMMAIRE.md).
 
 ## Prérequis
 
