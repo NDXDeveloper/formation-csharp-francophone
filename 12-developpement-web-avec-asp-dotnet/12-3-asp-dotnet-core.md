@@ -1444,4 +1444,4 @@ Avec l'ajout de Blazor, Microsoft a également offert une solution innovante pou
 
 Que vous choisissiez ASP.NET Core MVC, Razor Pages, ou Blazor, vous bénéficierez d'un écosystème mature, bien supporté et en constante évolution.
 
-⏭️
+⏭️ 12.4. [Razor Pages](/12-developpement-web-avec-asp-dotnet/12-4-razor-pages.md)

@@ -1834,4 +1834,4 @@ public class PersonViewModel : ViewModelBase
 
 Le pattern MVVM et l'injection de dépendances forment une combinaison puissante pour développer des applications WPF maintenables et testables. En séparant clairement les responsabilités et en rendant les composants faiblement couplés, vous pouvez créer des applications plus robustes et évolutives.
 
-⏭️
+⏭️ 8.8. [Ressources et dictionnaires de ressources](/08-windows-presentation-foundation-wpf/8-08-ressources-et-dictionnaires-de-ressources.md)

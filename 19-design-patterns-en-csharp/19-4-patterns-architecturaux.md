@@ -2374,4 +2374,4 @@ Les patterns architecturaux vous aident à :
 
 N'oubliez pas que **les patterns sont des outils, pas des solutions universelles**. Le but est de résoudre des problèmes réels, pas d'appliquer des patterns pour le plaisir. Choisissez toujours la solution la plus simple qui répond à vos besoins.
 
-⏭️
+⏭️ 19.5. [Patterns spécifiques à .NET](/19-design-patterns-en-csharp/19-5-patterns-specifiques-a-dotnet.md)

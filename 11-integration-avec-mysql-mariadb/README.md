@@ -30,4 +30,4 @@ Que vous développiez une nouvelle application .NET cherchant à tirer parti de 
 
 Embarquons ensemble dans cette exploration de l'intégration entre .NET et MySQL/MariaDB, un mariage technologique qui offre flexibilité, performance et économie pour vos applications axées sur les données.
 
-⏭️
+⏭️ 11.1. [Installation des connecteurs](/11-integration-avec-mysql-mariadb/11-1-installation-des-connecteurs.md)

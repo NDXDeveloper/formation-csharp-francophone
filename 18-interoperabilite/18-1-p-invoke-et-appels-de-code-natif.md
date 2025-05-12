@@ -561,4 +561,4 @@ Quelques points à retenir :
 - [P/Invoke.net](http://www.pinvoke.net/) - Une ressource communautaire avec des milliers de signatures P/Invoke
 - [Livre "Windows via C/C++" de Jeffrey Richter](https://www.amazon.fr/Windows-via-C-Jeffrey-Richter/dp/0735624240)
 
-⏭️
+⏭️ 18.2. [COM Interop](/18-interoperabilite/18-2-com-interop.md)

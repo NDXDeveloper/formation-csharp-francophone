@@ -32,4 +32,4 @@ Que vous développiez des applications d'entreprise complexes, des services web,
 
 Embarquons ensemble dans cette exploration approfondie de la programmation orientée objet en C#, un voyage qui transformera fondamentalement votre approche du développement logiciel.
 
-⏭️
+⏭️ 5.1. [Classes et objets](/05-programmation-orientee-objet-en-csharp/5-1-classes-et-objets.md)

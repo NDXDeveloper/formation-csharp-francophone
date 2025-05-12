@@ -32,4 +32,4 @@ Que vous développiez des applications d'entreprise à grande échelle, des serv
 
 Embarquons ensemble dans cette exploration fascinante des capacités avancées de C#, un voyage qui élèvera votre expertise de développeur à de nouveaux sommets.
 
-⏭️
+⏭️ 6.1. [Délégués et événements](/06-fonctionnalites-avancees-de-csharp/6-1-delegues-et-evenements.md)

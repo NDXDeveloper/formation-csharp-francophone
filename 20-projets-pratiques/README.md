@@ -30,4 +30,4 @@ Les aspects transversaux comme la gestion des erreurs, la journalisation, la sé
 
 Que vous soyez étudiant cherchant à consolider vos connaissances théoriques par des applications concrètes, développeur en reconversion souhaitant accélérer votre montée en compétence sur les technologies .NET, ou professionnel expérimenté désireux d'explorer de nouvelles architectures et approches, ces projets pratiques vous fourniront une expérience d'apprentissage immersive et applicable immédiatement dans votre parcours professionnel. En construisant ces applications de bout en bout, vous développerez non seulement des compétences techniques spécifiques, mais aussi une compréhension holistique du développement logiciel avec C# et .NET qui vous distinguera dans un environnement professionnel de plus en plus compétitif et spécialisé.
 
-⏭️
+⏭️ 20.1. [Application de gestion avec WinForms et MySQL](/20-projets-pratiques/20-1-application-de-gestion-avec-winforms-et-mysql.md)

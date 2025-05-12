@@ -1413,4 +1413,4 @@ public class PerformanceComparison
 
 Ce chapitre d'introduction à Windows Forms a couvert les fondamentaux de cette technologie de développement d'applications de bureau, en mettant en évidence les différences entre .NET Framework 4.7.2 et .NET 8. Les développeurs peuvent maintenant créer des applications Windows modernes avec WinForms tout en bénéficiant des avantages du framework .NET moderne, notamment les performances améliorées, la prise en charge de nouvelles fonctionnalités et l'intégration avec des pratiques de développement contemporaines.
 
-⏭️
+⏭️ 7.2. [Création d'une première application](/07-windows-forms-winforms/7-2-creation-dune-premiere-application.md)

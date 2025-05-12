@@ -2384,4 +2384,4 @@ public class ComboBoxPersonnalisé : ComboBox
 
 En suivant ces bonnes pratiques, vous créerez des interfaces utilisateur professionnelles, cohérentes et agréables à utiliser, qui s'adaptent à différentes tailles d'écran et résolutions tout en maintenant une apparence visuelle attrayante.
 
-⏭️
+⏭️ 7.6. [Menus et barres d'outils](/07-windows-forms-winforms/7-6-menus-et-barres-doutils.md)

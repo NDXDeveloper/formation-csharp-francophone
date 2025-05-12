@@ -501,4 +501,4 @@ Félicitations ! Vous venez de créer, comprendre et exécuter votre premier pro
 
 N'hésitez pas à expérimenter avec ce programme simple en modifiant le message affiché, en ajoutant des interactions avec l'utilisateur ou en essayant différentes méthodes de la classe `Console`. La pratique est la clé de l'apprentissage de la programmation.
 
-⏭️
+⏭️ 2. [Fondamentaux du langage C#](/02-fondamentaux-du-langage-csharp/README.md)

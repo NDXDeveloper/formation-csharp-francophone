@@ -479,4 +479,4 @@ public class Program
 
 Les classes abstraites sont idéales lorsque vous avez une hiérarchie de classes qui partagent un comportement commun, mais où chaque sous-classe doit fournir certaines implémentations spécifiques. Elles offrent une combinaison de rigidité (contrat à respecter) et de flexibilité (extension et personnalisation) qui en fait un outil puissant dans la conception orientée objet.
 
-⏭️
+⏭️ 5.8. [Modificateurs d'accès](/05-programmation-orientee-objet-en-csharp/5-8-modificateurs-dacces.md)

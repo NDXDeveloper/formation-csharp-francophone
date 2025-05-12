@@ -509,4 +509,4 @@ Pour garantir les meilleures performances avec les API de composition :
 
 WinUI 3 représente une évolution significative dans le développement d'applications Windows, offrant des performances natives et une expérience visuelle moderne. Bien que la migration depuis des frameworks plus anciens comme WPF puisse présenter des défis, les avantages en termes de performances, de design et d'évolutivité en font une option attrayante pour les nouvelles applications et la modernisation d'applications existantes.
 
-⏭️
+⏭️ 13.4. [Applications de bureau empaquetées (MSIX)](/13-applications-de-bureau-modernes-avec-dotnet/13-4-applications-de-bureau-empaquetees-msix.md)

@@ -436,4 +436,4 @@ protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 
 Le choix d'une stratégie de chargement dépend du contexte spécifique de votre application. Dans la pratique, la plupart des applications utilisent une combinaison des trois approches selon les besoins. L'important est de comprendre les implications de chaque stratégie et de choisir celle qui offre le meilleur équilibre entre simplicité de développement et performance pour chaque cas d'utilisation.
 
-⏭️
+⏭️ 10.8. [Transactions et concurrence](/10-entity-framework-core/10-8-transactions-et-concurrence.md)

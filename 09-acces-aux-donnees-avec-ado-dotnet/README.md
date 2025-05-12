@@ -30,4 +30,4 @@ Que vous développiez une nouvelle application nécessitant un accès aux donné
 
 Embarquons ensemble dans cette exploration approfondie d'ADO.NET, une technologie qui, malgré l'émergence de frameworks d'accès aux données plus abstraits comme Entity Framework, demeure incontournable pour de nombreux scénarios nécessitant performance, contrôle précis et flexibilité maximale.
 
-⏭️
+⏭️ 9.1. [Introduction à ADO.NET](/09-acces-aux-donnees-avec-ado-dotnet/9-1-introduction-a-ado-dotnet.md)

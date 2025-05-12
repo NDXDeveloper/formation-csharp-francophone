@@ -426,4 +426,4 @@ Le `DbContext` et les `DbSet<T>` sont les fondations sur lesquelles repose votre
 
 À mesure que vous progressez, n'hésitez pas à explorer des configurations plus avancées, mais commencez par maîtriser les bases présentées dans cette section.
 
-⏭️
+⏭️ 10.4. [Migrations](/10-entity-framework-core/10-4-migrations.md)

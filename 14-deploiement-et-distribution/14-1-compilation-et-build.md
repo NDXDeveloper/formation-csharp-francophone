@@ -580,4 +580,4 @@ En maîtrisant ces concepts, vous pourrez créer des applications .NET performan
 4. Mesurez et comparez les performances de votre application en mode Debug vs Release
 5. Explorez les options de trimming pour réduire la taille de votre application déployée
 
-⏭️
+⏭️ 14.2. [Déploiement d'applications Windows Forms](/14-deploiement-et-distribution/14-2-deploiement-dapplications-windows-forms.md)

@@ -1312,4 +1312,4 @@ En comprenant les différences entre Razor Pages et MVC, vous pouvez choisir la 
 
 Razor Pages continue d'évoluer avec chaque nouvelle version d'ASP.NET Core, apportant de nouvelles fonctionnalités et améliorations pour répondre aux besoins des développeurs modernes.
 
-⏭️
+⏭️ 12.5. [API Web et services REST](/12-developpement-web-avec-asp-dotnet/12-5-api-web-et-services-rest.md)

@@ -1695,4 +1695,4 @@ LINQ offre un ensemble puissant d'outils pour l'agrégation et le groupement de 
 
 Ces opérations constituent la base de nombreuses applications d'analyse de données, de reporting et de business intelligence.
 
-⏭️
+⏭️ 6.4. [Génériques](/06-fonctionnalites-avancees-de-csharp/6-4-generiques.md)

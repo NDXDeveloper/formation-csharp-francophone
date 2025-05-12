@@ -664,4 +664,4 @@ ClickOnce est particulièrement adapté aux applications d'entreprise, aux appli
 
 5. Configurez votre application ClickOnce pour fonctionner hors ligne et gérer la synchronisation des données lorsque la connexion est rétablie.
 
-⏭️
+⏭️ 14.6. [Packaging MSIX](/14-deploiement-et-distribution/14-6-packaging-msix.md)

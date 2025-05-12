@@ -498,4 +498,4 @@ jobs:
 
 Prendre le temps de bien documenter votre code est un investissement qui paiera à long terme, en facilitant la maintenance, en réduisant les erreurs, et en améliorant la collaboration avec d'autres développeurs. N'oubliez pas que vous écrivez du code non seulement pour l'ordinateur, mais aussi pour les humains qui le liront plus tard !
 
-⏭️
+⏭️ 3. [Tableaux et collections](/03-tableaux-et-collections/README.md)

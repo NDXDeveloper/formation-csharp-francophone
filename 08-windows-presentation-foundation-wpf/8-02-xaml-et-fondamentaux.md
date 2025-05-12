@@ -1171,4 +1171,4 @@ XAML est un langage déclaratif puissant qui offre une séparation claire entre 
 
 Maîtriser ces fondamentaux est essentiel pour développer des applications WPF sophistiquées et maintenables. La combinaison de XAML pour la présentation et de C# pour la logique permet de créer des interfaces utilisateur riches et interactives tout en maintenant un code propre et organisé.
 
-⏭️
+⏭️ 8.3. [Mise en page avec les Panels](/08-windows-presentation-foundation-wpf/8-03-mise-en-page-avec-les-panels.md)

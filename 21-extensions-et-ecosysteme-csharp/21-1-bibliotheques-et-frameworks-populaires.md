@@ -714,4 +714,4 @@ Ces bibliothèques et frameworks représentent une partie essentielle de l'écos
 
 L'apprentissage et la maîtrise de ces outils vous rendront beaucoup plus productif dans vos projets C#.
 
-⏭️
+⏭️ 21.2. [DevOps pour projets C#](/21-extensions-et-ecosysteme-csharp/21-2-devops-pour-projets-csharp.md)

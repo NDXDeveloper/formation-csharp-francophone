@@ -551,4 +551,4 @@ Les conférences et événements sont des accélérateurs d'apprentissage inesti
 
 N'oubliez pas : chaque participation est une opportunité d'apprendre, de rencontrer des gens formidables et de faire progresser votre carrière. Commencez petit, soyez patient, et profitez du voyage !
 
-⏭️
+⏭️ 22.4. [Formation continue et certifications](/22-ressources-et-communaute/22-4-formation-continue-et-certifications.md)

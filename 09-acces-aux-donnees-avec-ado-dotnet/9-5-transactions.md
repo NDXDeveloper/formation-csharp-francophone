@@ -1282,4 +1282,4 @@ Pour optimiser vos transactions, n'oubliez pas ces bonnes pratiques :
 
 Ces techniques fonctionnent aussi bien dans .NET Framework 4.7.2 que dans .NET 8, avec les adaptations nécessaires pour profiter des fonctionnalités asynchrones modernes dans .NET 8.
 
-⏭️
+⏭️ 9.6. [Procédures stockées](/09-acces-aux-donnees-avec-ado-dotnet/9-6-procedures-stockees.md)

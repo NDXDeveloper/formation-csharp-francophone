@@ -1490,4 +1490,4 @@ Le compilateur C# utilise plusieurs règles pour inférer les types génériques
 
 L'inférence de type générique est une fonctionnalité puissante qui simplifie considérablement l'utilisation des génériques en C#, rendant le code plus lisible tout en maintenant la sécurité de type.
 
-⏭️
+⏭️ 6.5. [Gestion des exceptions](/06-fonctionnalites-avancees-de-csharp/6-5-gestion-des-exceptions.md)

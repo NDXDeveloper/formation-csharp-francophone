@@ -1349,4 +1349,4 @@ Pour approfondir vos connaissances en profilage et optimisation :
 - [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial)
 - [Writing High-Performance .NET Code](https://www.writinghighperf.net/) de Ben Watson
 
-⏭️
+⏭️ 17.6. [Techniques d'optimisation avancées](/17-performances-et-optimisation/17-6-techniques-doptimisation-avancees.md)

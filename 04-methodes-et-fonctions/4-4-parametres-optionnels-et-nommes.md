@@ -587,4 +587,4 @@ Les paramètres optionnels et nommés sont des fonctionnalités puissantes de C#
 
 En combinant ces deux fonctionnalités, vous pouvez créer des méthodes très configurables tout en gardant l'interface simple et intuitive pour les cas d'utilisation courants. Cela conduit à un code plus maintenable et plus facile à comprendre, tant pour vous que pour les autres développeurs qui utiliseront votre code.
 
-⏭️
+⏭️ 4.5. [Méthodes d'extension](/04-methodes-et-fonctions/4-5-methodes-dextension.md)

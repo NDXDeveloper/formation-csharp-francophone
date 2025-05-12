@@ -1879,4 +1879,4 @@ En tant que développeur C#, vous disposez d'un écosystème riche en outils et 
 
 La sécurité n'est pas seulement une responsabilité technique, c'est une responsabilité éthique envers vos utilisateurs et leurs données.
 
-⏭️
+⏭️ 17. [Performances et optimisation](/17-performances-et-optimisation/README.md)

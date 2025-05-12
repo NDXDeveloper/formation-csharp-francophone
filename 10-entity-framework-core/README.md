@@ -30,6 +30,6 @@ Tout au long de ce chapitre, nous mettrons l'accent sur les meilleures pratiques
 
 Que vous développiez une nouvelle application exploitant pleinement les capacités de .NET 8, que vous mainteniez un système existant sur .NET Framework, ou que vous planifiez une migration entre ces plateformes, ce chapitre vous fournira les connaissances et techniques nécessaires pour exploiter efficacement Entity Framework Core dans votre contexte spécifique.
 
-⏭️
-
 Embarquons ensemble dans cette exploration d'Entity Framework Core, une technologie qui continue d'évoluer pour offrir un équilibre optimal entre productivité du développeur, flexibilité architecturale et performance des applications.
+
+⏭️ 10.1. [Introduction à Entity Framework Core](/10-entity-framework-core/10-1-introduction-a-entity-framework-core.md)

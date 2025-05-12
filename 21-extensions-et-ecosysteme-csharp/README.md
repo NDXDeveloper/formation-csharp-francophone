@@ -26,4 +26,4 @@ Nous aborderons également les considérations pratiques liées à la gestion de
 
 Que vous soyez développeur junior cherchant à élargir votre boîte à outils au-delà des fonctionnalités de base, professionnel expérimenté souhaitant moderniser vos pratiques et adopter les dernières innovations de l'écosystème, ou architecte responsable de définir les standards technologiques pour votre organisation, ce chapitre vous fournira une carte précieuse pour naviguer dans le vaste paysage des extensions et technologies complémentaires à C#. Dans un monde où la productivité et l'innovation dépendent largement de la capacité à tirer parti efficacement des ressources existantes, cette connaissance approfondie de l'écosystème représente un avantage compétitif significatif pour tout développeur .NET.
 
-⏭️
+⏭️ 21.1. [Bibliothèques et frameworks populaires](/21-extensions-et-ecosysteme-csharp/21-1-bibliotheques-et-frameworks-populaires.md)

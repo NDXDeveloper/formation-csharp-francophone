@@ -1328,4 +1328,4 @@ Pour résumer les approches de personnalisation des contrôles :
 
 En combinant ces techniques, vous pouvez créer des contrôles personnalisés riches qui offrent une excellente expérience utilisateur tout en maintenant une base de code propre et réutilisable.
 
-⏭️
+⏭️ 8.11. [Localisation et internationalisation](/08-windows-presentation-foundation-wpf/8-11-localisation-et-internationalisation.md)

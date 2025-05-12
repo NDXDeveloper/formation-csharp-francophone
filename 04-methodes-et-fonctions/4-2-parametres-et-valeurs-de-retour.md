@@ -473,4 +473,4 @@ Les discards sont un moyen élégant de:
 
 La maîtrise de ces différentes techniques de gestion des paramètres et des valeurs de retour vous permettra d'écrire un code C# plus expressif, plus flexible et plus maintenable.
 
-⏭️
+⏭️ 4.3. [Surcharge de méthodes](/04-methodes-et-fonctions/4-3-surcharge-de-methodes.md)

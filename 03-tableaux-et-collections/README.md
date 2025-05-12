@@ -14,4 +14,4 @@ Pour chaque type de collection, nous explorerons sa déclaration, son initialisa
 Que vous développiez une application de bureau traditionnelle, une API web haute performance, ou une application mobile, la maîtrise de ces structures de données est essentielle pour écrire du code C# efficace et élégant.
 Commençons notre exploration des tableaux et collections en C#.
 
-⏭️
+⏭️ 3.1. [Tableaux](/03-tableaux-et-collections/3-1-tableaux.md)

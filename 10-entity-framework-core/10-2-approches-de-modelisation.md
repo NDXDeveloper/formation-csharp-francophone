@@ -312,4 +312,4 @@ Pour les débutants, nous recommandons généralement:
 
 Quelle que soit l'approche choisie, Entity Framework Core offre une grande flexibilité et peut s'adapter à différents scénarios de développement. N'hésitez pas à mixer les approches selon vos besoins spécifiques!
 
-⏭️
+⏭️ 10.3. [DbContext et DbSet](/10-entity-framework-core/10-3-dbcontext-et-dbset.md)

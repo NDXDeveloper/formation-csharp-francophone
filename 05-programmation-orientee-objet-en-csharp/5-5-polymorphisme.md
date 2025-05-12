@@ -314,4 +314,4 @@ public class Chat : Animal
 
 Le polymorphisme, combiné avec ces mécanismes de conversion et vérification de types, permet d'écrire du code flexible qui s'adapte dynamiquement au type réel des objets manipulés.
 
-⏭️
+⏭️ 5.6. [Interfaces](/05-programmation-orientee-objet-en-csharp/5-6-interfaces.md)

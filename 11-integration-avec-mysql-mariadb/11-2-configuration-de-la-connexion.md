@@ -267,4 +267,4 @@ public void ConfigureServices(IServiceCollection services)
 
 En suivant ces conseils, vous aurez une configuration de connexion MySQL/MariaDB sécurisée, performante et adaptée à tous vos environnements.
 
-⏭️
+⏭️ 11.3. [CRUD avec MySQL/MariaDB](/11-integration-avec-mysql-mariadb/11-3-crud-avec-mysql-mariadb.md)

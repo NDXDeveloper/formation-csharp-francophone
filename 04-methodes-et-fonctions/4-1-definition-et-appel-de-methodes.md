@@ -397,4 +397,4 @@ public static int CalculerAge(DateTime dateNaissance)
 
 En maîtrisant la création et l'utilisation des méthodes en C#, vous construirez un code plus organisé, plus maintenable et plus réutilisable.
 
-⏭️
+⏭️ 4.2. [Paramètres et valeurs de retour](/04-methodes-et-fonctions/4-2-parametres-et-valeurs-de-retour.md)

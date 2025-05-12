@@ -291,19 +291,19 @@
     - 7.9.5. Indicateurs de progression
 
 ## 8. [Windows Presentation Foundation (WPF)](/08-windows-presentation-foundation-wpf/README.md)
-- 8.1. [Introduction à WPF](/08-windows-presentation-foundation-wpf/8-1-introduction-a-wpf.md)
+- 8.1. [Introduction à WPF](/08-windows-presentation-foundation-wpf/8-01-introduction-a-wpf.md)
     - 8.1.1. Comparaison avec WinForms
     - 8.1.2. Architecture de WPF
     - 8.1.3. WPF avec .NET Core/.NET 5+
 
-- 8.2. [XAML et fondamentaux](/08-windows-presentation-foundation-wpf/8-2-xaml-et-fondamentaux.md)
+- 8.2. [XAML et fondamentaux](/08-windows-presentation-foundation-wpf/8-02-xaml-et-fondamentaux.md)
     - 8.2.1. Syntaxe XAML
     - 8.2.2. Espace de noms et préfixes
     - 8.2.3. Relation XAML/code-behind
     - 8.2.4. Markup Extensions
     - 8.2.5. Éditeur XAML et designer
 
-- 8.3. [Mise en page avec les Panels](/08-windows-presentation-foundation-wpf/8-3-mise-en-page-avec-les-panels.md)
+- 8.3. [Mise en page avec les Panels](/08-windows-presentation-foundation-wpf/8-03-mise-en-page-avec-les-panels.md)
     - 8.3.1. Grid
     - 8.3.2. StackPanel
     - 8.3.3. WrapPanel
@@ -311,14 +311,14 @@
     - 8.3.5. Canvas
     - 8.3.6. Layouts combinés et complexes
 
-- 8.4. [Contrôles WPF](/08-windows-presentation-foundation-wpf/8-4-controles-wpf.md)
+- 8.4. [Contrôles WPF](/08-windows-presentation-foundation-wpf/8-04-controles-wpf.md)
     - 8.4.1. Contrôles de base
     - 8.4.2. Contrôles de contenu
     - 8.4.3. Contrôles de données
     - 8.4.4. Contrôles de navigation
     - 8.4.5. DatePicker, ColorPicker et autres contrôles spécialisés
 
-- 8.5. [Styles et templates](/08-windows-presentation-foundation-wpf/8-5-styles-et-templates.md)
+- 8.5. [Styles et templates](/08-windows-presentation-foundation-wpf/8-05-styles-et-templates.md)
     - 8.5.1. Définition et application de styles
     - 8.5.2. Héritage de styles
     - 8.5.3. ControlTemplate
@@ -326,7 +326,7 @@
     - 8.5.5. Triggers (Property, Data, Event)
     - 8.5.6. Visual States
 
-- 8.6. [Binding et DataContext](/08-windows-presentation-foundation-wpf/8-6-binding-et-datacontext.md)
+- 8.6. [Binding et DataContext](/08-windows-presentation-foundation-wpf/8-06-binding-et-datacontext.md)
     - 8.6.1. Syntax de binding
     - 8.6.2. Modes de binding
     - 8.6.3. Conversion de données
@@ -334,21 +334,21 @@
     - 8.6.5. Change Notification (INotifyPropertyChanged)
     - 8.6.6. CollectionView et filtrage
 
-- 8.7. [Commandes et MVVM (Model-View-ViewModel)](/08-windows-presentation-foundation-wpf/8-7-commandes-et-mvvm-model-view-viewmodel.md)
+- 8.7. [Commandes et MVVM (Model-View-ViewModel)](/08-windows-presentation-foundation-wpf/8-07-commandes-et-mvvm-model-view-viewmodel.md)
     - 8.7.1. Pattern MVVM
     - 8.7.2. ICommand
     - 8.7.3. RelayCommand
     - 8.7.4. Frameworks MVVM (MVVM Light, Prism, etc.)
     - 8.7.5. Injection de dépendances dans MVVM
 
-- 8.8. [Ressources et dictionnaires de ressources](/08-windows-presentation-foundation-wpf/8-8-ressources-et-dictionnaires-de-ressources.md)
+- 8.8. [Ressources et dictionnaires de ressources](/08-windows-presentation-foundation-wpf/8-08-ressources-et-dictionnaires-de-ressources.md)
     - 8.8.1. Resources locales
     - 8.8.2. Ressources d'application
     - 8.8.3. Ressources externes
     - 8.8.4. ResourceDictionary et fusion
     - 8.8.5. Thèmes dynamiques
 
-- 8.9. [Animations et effets visuels](/08-windows-presentation-foundation-wpf/8-9-animations-et-effets-visuels.md)
+- 8.9. [Animations et effets visuels](/08-windows-presentation-foundation-wpf/8-09-animations-et-effets-visuels.md)
     - 8.9.1. Animations basées sur le temps
     - 8.9.2. Animations basées sur les keyframes
     - 8.9.3. Storyboards

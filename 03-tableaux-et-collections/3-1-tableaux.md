@@ -566,4 +566,4 @@ Pour bien maîtriser les tableaux, essayez ces exercices :
 
 Ces exercices vous aideront à développer vos compétences et à comprendre les différentes façons d'utiliser les tableaux en C#.
 
-⏭️
+⏭️ 3.2. [Collections standard](/03-tableaux-et-collections/3-2-collections-standard.md)

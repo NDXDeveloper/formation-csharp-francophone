@@ -405,4 +405,4 @@ graph TD
 
 Les migrations sont un outil extrêmement puissant d'Entity Framework Core qui vous permet de gérer l'évolution de votre base de données de manière contrôlée. Avec une bonne compréhension et application des concepts présentés dans cette section, vous pourrez faire évoluer votre schéma de base de données en toute confiance, même dans des environnements de production critiques.
 
-⏭️
+⏭️ 10.5. [Requêtes LINQ to Entities](/10-entity-framework-core/10-5-requetes-linq-to-entities.md)

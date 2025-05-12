@@ -616,4 +616,4 @@ N'oubliez pas que la consommation passive de contenu est juste le début. La vra
 
 Commencez petit - un article par semaine, un podcast par trajet - et construisez progressivement votre routine de veille technologique. Avec le temps, cette habitude deviendra un accélérateur puissant pour votre carrière en C# et .NET.
 
-⏭️
+⏭️ 22.6. [Contribution open source](/22-ressources-et-communaute/22-6-contribution-open-source.md)

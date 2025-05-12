@@ -644,4 +644,4 @@ La gestion correcte des connexions aux bases de données est fondamentale pour d
 
 En suivant ces bonnes pratiques, vous créerez des applications qui accèdent efficacement et en toute sécurité à vos bases de données.
 
-⏭️
+⏭️ 9.3. [Exécution de commandes SQL](/09-acces-aux-donnees-avec-ado-dotnet/9-3-execution-de-commandes-sql.md)

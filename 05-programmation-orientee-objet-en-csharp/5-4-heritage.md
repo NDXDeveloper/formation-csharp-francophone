@@ -1567,4 +1567,4 @@ var personne1 = new Personne("Dupont", "Jean", new DateTime(1980, 5, 15));
 var personne
 ```
 
-⏭️
+⏭️ 5.5. [Polymorphisme](/05-programmation-orientee-objet-en-csharp/5-5-polymorphisme.md)

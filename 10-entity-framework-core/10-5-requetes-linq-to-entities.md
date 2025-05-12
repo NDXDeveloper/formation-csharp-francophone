@@ -564,4 +564,4 @@ using (var command = context.Database.GetDbConnection().CreateCommand())
 
 LINQ to Entities est l'une des fonctionnalités les plus puissantes d'Entity Framework Core. Il vous permet d'interroger votre base de données avec une syntaxe naturelle en C#, tout en générant des requêtes SQL efficaces. Maîtriser les différentes techniques de requêtes et de chargement vous aidera à créer des applications performantes et maintenables.
 
-⏭️
+⏭️ 10.6. [Relations entre entités](/10-entity-framework-core/10-6-relations-entre-entites.md)

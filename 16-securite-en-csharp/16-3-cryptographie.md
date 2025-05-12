@@ -1264,4 +1264,4 @@ Voici un récapitulatif des points essentiels à retenir :
 
 En suivant ces bonnes pratiques, vous pouvez considérablement améliorer la sécurité cryptographique de vos applications C#, protégeant ainsi les données sensibles contre les accès non autorisés.
 
-⏭️
+⏭️ 16.4. [Authentification et autorisation](/16-securite-en-csharp/16-4-authentification-et-autorisation.md)

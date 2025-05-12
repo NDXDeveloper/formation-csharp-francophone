@@ -263,4 +263,4 @@ Voici un tableau comparatif pour vous aider à choisir le connecteur adapté à 
 
 La bonne nouvelle est que vous pouvez facilement migrer d'un connecteur à l'autre si nécessaire, car ils partagent des APIs similaires.
 
-⏭️
+⏭️ 11.2. [Configuration de la connexion](/11-integration-avec-mysql-mariadb/11-2-configuration-de-la-connexion.md)

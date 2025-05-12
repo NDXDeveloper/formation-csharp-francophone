@@ -30,4 +30,4 @@ Bien que les design patterns constituent des outils puissants, nous rappellerons
 
 Que vous soyez développeur junior cherchant à maîtriser ces concepts essentiels, développeur expérimenté souhaitant affiner votre compréhension des nuances d'implémentation en C#, ou architecte responsable de la conception de systèmes complexes, ce chapitre vous fournira les connaissances et techniques nécessaires pour exploiter efficacement les design patterns dans vos projets .NET. Dans un monde où la qualité et l'évolutivité des logiciels sont devenues des exigences fondamentales, ces compétences constituent un atout précieux pour tout professionnel du développement C#.
 
-⏭️
+⏭️ 19.1. [Patterns créationnels](/19-design-patterns-en-csharp/19-1-patterns-creationnels.md)

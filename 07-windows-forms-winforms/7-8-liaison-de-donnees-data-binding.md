@@ -2478,4 +2478,4 @@ Bien que Windows Forms soit une technologie mature, la liaison de données reste
 En maîtrisant les techniques de liaison de données présentées dans ce chapitre, vous disposez d'un outil puissant pour créer des applications Windows Forms robustes, réactives et faciles à maintenir. Ces compétences vous permettront de développer plus efficacement des interfaces utilisateur qui communiquent harmonieusement avec vos modèles de données, offrant ainsi une expérience utilisateur cohérente et intuitive.
 La liaison de données représente l'un des exemples les plus concrets de la façon dont un bon design architectural peut simplifier le développement tout en améliorant la qualité du produit final. En continuant à explorer et à approfondir ces concepts, vous serez bien équipé pour relever les défis de développement d'applications plus complexes dans l'écosystème .NET.
 
-⏭️
+⏭️ 7.9. [Multithreading dans WinForms](/07-windows-forms-winforms/7-9-multithreading-dans-winforms.md)

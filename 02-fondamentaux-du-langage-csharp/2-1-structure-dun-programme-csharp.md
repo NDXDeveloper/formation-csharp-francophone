@@ -344,4 +344,4 @@ return 0;
 
 En comprenant ces concepts fondamentaux, vous avez maintenant une base solide pour développer des applications en C#, quelle que soit leur complexité.
 
-⏭️
+⏭️ 2.2. [Types de données](/02-fondamentaux-du-langage-csharp/2-2-types-de-donnees.md)

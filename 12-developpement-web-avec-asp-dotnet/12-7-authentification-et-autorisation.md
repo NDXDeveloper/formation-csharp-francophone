@@ -1201,4 +1201,4 @@ Une fois que vous maîtrisez les bases de l'authentification et de l'autorisatio
 
 En conclusion, ASP.NET Core offre un écosystème riche et flexible pour implémenter des systèmes d'authentification et d'autorisation sécurisés et adaptés à vos besoins spécifiques. La clé est de comprendre les différentes options disponibles et de choisir celles qui correspondent le mieux aux exigences de votre application.
 
-⏭️
+⏭️ 12.8. [Middleware et pipeline de requêtes](/12-developpement-web-avec-asp-dotnet/12-8-middleware-et-pipeline-de-requetes.md)

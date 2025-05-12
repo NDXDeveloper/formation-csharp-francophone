@@ -1420,4 +1420,4 @@ En .NET Framework 4.7.2, vous disposez déjà des fonctionnalités essentielles 
 
 Quelle que soit la version de .NET que vous utilisez, suivez les meilleures pratiques décrites dans cette section pour créer un code plus robuste, plus maintenable et plus performant.
 
-⏭️
+⏭️ 6.6. [Types anonymes et dynamiques](/06-fonctionnalites-avancees-de-csharp/6-6-types-anonymes-et-dynamiques.md)

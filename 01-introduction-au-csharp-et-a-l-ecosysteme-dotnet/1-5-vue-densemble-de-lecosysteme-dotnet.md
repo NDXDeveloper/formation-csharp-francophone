@@ -315,4 +315,4 @@ NuGet est parfaitement intégré dans les workflows CI/CD modernes :
 
 L'écosystème .NET a considérablement évolué depuis ses débuts, passant d'une plateforme fermée et limitée à Windows à un environnement moderne, open source et multiplateforme. Comprendre cette évolution et maîtriser les outils comme NuGet est essentiel pour tirer pleinement parti de C# et .NET dans vos projets. La nouvelle direction de .NET avec .NET 5+ représente l'avenir de la plateforme, offrant performance, portabilité et productivité pour tous types d'applications.
 
-⏭️
+⏭️ 1.6. [Votre premier programme "Hello World"](/01-introduction-au-csharp-et-a-l-ecosysteme-dotnet/1-6-votre-premier-programme-hello-world.md)

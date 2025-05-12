@@ -30,4 +30,4 @@ La dimension éthique et la responsabilité professionnelle seront également ab
 
 En conclusion, ce chapitre vise à transformer votre relation avec C# et .NET, vous invitant à passer du rôle de simple consommateur de technologies à celui de participant actif dans un écosystème vivant et collaboratif. Les ressources et communautés présentées ne sont pas seulement des moyens d'approfondir vos connaissances techniques, mais également des opportunités d'enrichissement professionnel, d'influence positive, et de connexions humaines significatives. Dans un domaine aussi rapidement évolutif que le développement logiciel, cette dimension communautaire n'est pas un luxe mais une nécessité pour maintenir sa pertinence et son épanouissement professionnel à long terme.
 
-⏭️
+⏭️ 22.1. [Documentation officielle](/22-ressources-et-communaute/22-1-documentation-officielle.md)

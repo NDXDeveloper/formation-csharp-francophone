@@ -828,4 +828,4 @@ Extensions et plugins
 Utilisés judicieusement, ces outils peuvent simplifier le code et accroître la flexibilité. Cependant, ils doivent être employés avec discernement, en tenant compte des compromis en matière de sécurité du type et de performance.
 
 
-⏭️
+⏭️ 6.7. [Méthodes anonymes](/06-fonctionnalites-avancees-de-csharp/6-7-methodes-anonymes.md)

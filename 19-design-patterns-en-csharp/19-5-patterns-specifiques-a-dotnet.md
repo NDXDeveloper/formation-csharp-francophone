@@ -1388,4 +1388,4 @@ Les patterns spécifiques à .NET sont essentiels pour :
 
 Ces patterns forment la **base d'une architecture .NET moderne et performante**. Maîtrisez-les pour créer des applications robustes et maintenables qui tirent pleinement parti de l'écosystème .NET.
 
-⏭️
+⏭️ 20. [Projets pratiques](/20-projets-pratiques/README.md)

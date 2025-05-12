@@ -502,4 +502,4 @@ protected override void Up(MigrationBuilder migrationBuilder)
 
 En suivant ces conseils et en exploitant les fonctionnalités spécifiques de MySQL et MariaDB, vous pouvez créer des applications performantes et fiables avec Entity Framework Core.
 
-⏭️
+⏭️ 11.5. [Optimisation des performances](/11-integration-avec-mysql-mariadb/11-5-optimisation-des-performances.md)

@@ -781,4 +781,4 @@ En résumé, utilisez les méthodes locales lorsque :
 
 Les méthodes locales représentent une excellente façon d'améliorer la structure et la lisibilité de votre code tout en maintenant une bonne encapsulation.
 
-⏭️
+⏭️ 4.7. [Expressions de fonction (lambdas)](/04-methodes-et-fonctions/4-7-expressions-de-fonction-lambdas.md)

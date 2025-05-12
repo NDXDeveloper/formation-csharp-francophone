@@ -1975,4 +1975,4 @@ Les contrôles `MenuStrip`, `ContextMenuStrip`, `ToolStrip` et `StatusStrip` de 
 
 Assurez-vous de suivre les conventions standard de Windows pour les raccourcis clavier afin que vos utilisateurs puissent utiliser leur expérience acquise avec d'autres applications pour naviguer rapidement dans la vôtre.
 
-⏭️
+⏭️ 7.7. [Dialogues et messages](/07-windows-forms-winforms/7-7-dialogues-et-messages.md)

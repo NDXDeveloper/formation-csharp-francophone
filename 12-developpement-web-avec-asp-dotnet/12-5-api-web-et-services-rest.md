@@ -1785,4 +1785,4 @@ Points clés à retenir :
 
 ASP.NET Core fournit tous les outils nécessaires pour construire des API modernes et performantes qui peuvent évoluer avec vos besoins. Que vous construisiez une petite API pour une application mobile ou un système complexe d'API pour une architecture microservices, les principes et techniques présentés dans ce chapitre vous aideront à créer des interfaces robustes et professionnelles.
 
-⏭️
+⏭️ 12.6. [Documentation API avec Swagger/OpenAPI](/12-developpement-web-avec-asp-dotnet/12-6-documentation-api-avec-swagger-openapi.md)

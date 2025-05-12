@@ -313,4 +313,4 @@ La relation entre C# et .NET est symbiotique :
 
 Aujourd'hui, bien que .NET Framework 4.7.2 reste largement utilisé dans les applications d'entreprise existantes, .NET 8 représente la plateforme recommandée pour tous les nouveaux développements, offrant de meilleures performances, des fonctionnalités plus modernes et la portabilité multiplateforme.
 
-⏭️
+⏭️ 1.3. [Pourquoi choisir C# ?](/01-introduction-au-csharp-et-a-l-ecosysteme-dotnet/1-3-pourquoi-choisir-csharp.md)

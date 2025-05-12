@@ -703,4 +703,4 @@ private void ApplySystemTheme()
 
 En maîtrisant les ressources et les dictionnaires de ressources, vous pouvez créer des applications WPF cohérentes, maintenables et adaptables aux préférences des utilisateurs. Les thèmes dynamiques sont particulièrement utiles pour offrir des options de personnalisation et améliorer l'expérience utilisateur dans différentes conditions d'éclairage.
 
-⏭️
+⏭️ 8.9. [Animations et effets visuels](/08-windows-presentation-foundation-wpf/8-09-animations-et-effets-visuels.md)

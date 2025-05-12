@@ -959,4 +959,4 @@ Les méthodes anonymes et les expressions lambda sont des outils puissants dans 
 
 Les méthodes anonymes et lambdas constituent un élément essentiel de la programmation fonctionnelle en C#, permettant d'écrire un code plus déclaratif et de passer des comportements comme des données. Que vous utilisiez .NET Framework 4.7.2 ou .NET 8, ces fonctionnalités vous aideront à écrire un code plus élégant et plus maintenable.
 
-⏭️
+⏭️ 6.8. [Async/Await et programmation asynchrone](/06-fonctionnalites-avancees-de-csharp/6-8-async-await-et-programmation-asynchrone.md)

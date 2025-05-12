@@ -1369,4 +1369,4 @@ Pour clôturer cette section, voici un récapitulatif des bonnes pratiques pour 
 
 En choisissant la bonne solution pour votre contexte et en suivant ces bonnes pratiques, vous assurez une gestion sécurisée des secrets dans vos applications C#, réduisant significativement le risque de fuites d'informations sensibles.
 
-⏭️
+⏭️ 16.6. [Sécurité des applications Web](/16-securite-en-csharp/16-6-securite-des-applications-web.md)

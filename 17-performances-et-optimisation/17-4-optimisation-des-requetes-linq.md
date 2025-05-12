@@ -1159,4 +1159,4 @@ L'optimisation des requêtes LINQ nécessite une compréhension de son fonctionn
 
 N'oubliez pas que la lisibilité et la maintenabilité du code sont également importantes. Parfois, un léger compromis sur les performances peut valoir la peine si cela rend le code beaucoup plus clair et plus facile à maintenir. L'objectif est de trouver le bon équilibre entre des performances optimales et un code propre et maintenable.
 
-⏭️
+⏭️ 17.5. [Profilage des applications](/17-performances-et-optimisation/17-5-profilage-des-applications.md)

@@ -1184,4 +1184,4 @@ Dans .NET Framework 4.7.2, vous disposez déjà d'outils puissants comme les get
 
 Quelle que soit la version que vous utilisez, l'utilisation appropriée des propriétés et de l'encapsulation reste une pratique essentielle pour créer des applications C# bien structurées et maintenables.
 
-⏭️
+⏭️ 5.3. [Constructeurs et finaliseurs](/05-programmation-orientee-objet-en-csharp/5-3-constructeurs-et-finaliseurs.md)

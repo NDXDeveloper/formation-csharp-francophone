@@ -3299,4 +3299,4 @@ Pour approfondir vos connaissances sur MAUI, voici quelques ressources essentiel
 
 Ce guide complet sur .NET MAUI vous a présenté les concepts fondamentaux et avancés pour développer des applications multiplateformes modernes avec C# et XAML. En suivant ces bonnes pratiques, vous pourrez créer des applications performantes, maintenables et offrant une excellente expérience utilisateur sur toutes les plateformes prises en charge.
 
-⏭️
+⏭️ 13.3. [WinUI 3](/13-applications-de-bureau-modernes-avec-dotnet/13-3-winui-3.md)

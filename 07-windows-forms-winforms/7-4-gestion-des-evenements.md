@@ -2191,4 +2191,4 @@ public partial class Form1 : Form
 
 Ce chapitre a présenté les fondamentaux de la gestion des événements dans les applications Windows Forms. Les événements permettent de créer des interfaces utilisateur réactives et interactives, en répondant aux actions de l'utilisateur et aux changements d'état des contrôles. En comprenant le modèle d'événement .NET et en maîtrisant les différents types d'événements disponibles, vous pouvez développer des applications Windows Forms sophistiquées qui offrent une expérience utilisateur optimale.
 
-⏭️
+⏭️ 7.5. [Mise en page et design](/07-windows-forms-winforms/7-5-mise-en-page-et-design.md)

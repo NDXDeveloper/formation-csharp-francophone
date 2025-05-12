@@ -3483,4 +3483,4 @@ Les patterns comportementaux sont essentiels pour :
 
 Les patterns sont des outils puissants, mais rappelez-vous que **la simplicité est souvent la meilleure solution**. Utilisez les patterns quand ils simplifient réellement votre code, pas quand ils le compliquent.
 
-⏭️
+⏭️ 19.4. [Patterns architecturaux](/19-design-patterns-en-csharp/19-4-patterns-architecturaux.md)

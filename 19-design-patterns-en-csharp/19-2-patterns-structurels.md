@@ -1803,4 +1803,4 @@ Les patterns structurels vous aident à organiser et assembler des objets de man
 
 N'oubliez pas que ces patterns sont des outils, pas des solutions universelles. Utilisez-les quand ils apportent une réelle valeur à votre projet, et n'hésitez pas à les adapter à vos besoins spécifiques.
 
-⏭️
+⏭️ 19.3. [Patterns comportementaux](/19-design-patterns-en-csharp/19-3-patterns-comportementaux.md)

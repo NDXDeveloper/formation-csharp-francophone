@@ -28,4 +28,4 @@ Les exemples de code présentés seront systématiquement adaptés tant à .NET 
 
 Que vous cherchiez à intégrer des bibliothèques natives pour des performances optimales, à communiquer avec des systèmes legacy via COM, à exploiter des outils spécialisés développés dans d'autres langages, à créer des applications web modernes, ou à concevoir des architectures cloud natives, ce chapitre vous fournira les connaissances et techniques nécessaires pour franchir les frontières technologiques avec confiance et efficacité. Dans un écosystème informatique de plus en plus fragmenté et spécialisé, ces compétences d'interopérabilité sont devenues un atout stratégique pour tout développeur .NET souhaitant créer des solutions complètes et intégrées.
 
-⏭️
+⏭️ 18.1. [P/Invoke et appels de code natif](/18-interoperabilite/18-1-p-invoke-et-appels-de-code-natif.md)

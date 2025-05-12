@@ -1047,4 +1047,4 @@ En maîtrisant ces aspects du déploiement, vous pourrez distribuer vos applicat
 
 5. Configurez votre application WPF pour qu'elle fonctionne correctement avec différents niveaux de privilèges utilisateur en utilisant le manifeste d'application.
 
-⏭️
+⏭️ 14.4. [Déploiement d'applications Web ASP.NET](/14-deploiement-et-distribution/14-4-deploiement-dapplications-web-asp-dotnet.md)

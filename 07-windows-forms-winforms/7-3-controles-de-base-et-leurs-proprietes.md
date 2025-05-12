@@ -2347,4 +2347,4 @@ private void InitializeAdvancedLayoutControls()
 
 Ces exemples illustrent les contrôles de base de Windows Forms, leurs propriétés principales, et comment créer des contrôles personnalisés pour répondre à des besoins spécifiques. En comprenant ces concepts, vous serez en mesure de développer des interfaces utilisateur riches et interactives dans vos applications Windows Forms.
 
-⏭️
+⏭️ 7.4. [Gestion des événements](/07-windows-forms-winforms/7-4-gestion-des-evenements.md)

@@ -880,4 +880,4 @@ namespace Exemple.Tests
 
 Les modificateurs d'accès sont des outils puissants pour créer des APIs robustes et maintenir l'encapsulation. Une bonne utilisation de ces modificateurs rend votre code plus sûr, plus maintenable et plus facile à comprendre.
 
-⏭️
+⏭️ 5.9. [Records (C# 9+)](/05-programmation-orientee-objet-en-csharp/5-9-records-csharp-9-plus.md)

@@ -1493,4 +1493,4 @@ Utilisez cette checklist pour vos déploiements :
 
 5. **Mettez en place un déploiement Blue-Green** pour une application web simple, en utilisant soit des conteneurs Docker, soit des slots de déploiement dans Azure App Service.
 
-⏭️
+⏭️ 15. [Tests et qualité de code](/15-tests-et-qualite-de-code/README.md)

@@ -528,4 +528,4 @@ public class Program
 
 Les records constituent un ajout majeur à C# 9 et aux versions ultérieures, offrant une manière concise et élégante de manipuler des données immuables. Ils sont particulièrement utiles pour les types de transfert de données (DTOs), les modèles, les entités de domaine et dans les applications utilisant des approches fonctionnelles ou d'architecture en couches.
 
-⏭️
+⏭️ 5.10. [Types par valeur (structs)](/05-programmation-orientee-objet-en-csharp/5-10-types-par-valeur-structs.md)

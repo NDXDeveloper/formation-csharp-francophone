@@ -1249,4 +1249,4 @@ Si vous souhaitez approfondir ces sujets, voici quelques ressources recommandée
 
 Avec ces connaissances et techniques avancées, vous êtes maintenant mieux équipé pour optimiser vos applications C# lorsque les approches standard ne suffisent pas. N'oubliez pas : la meilleure optimisation est celle qui apporte le plus grand bénéfice tout en restant maintenable et compréhensible.
 
-⏭️
+⏭️ 18. [Interopérabilité](/18-interoperabilite/README.md)

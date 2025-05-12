@@ -429,4 +429,4 @@ N'oubliez pas que les communautés sont basées sur l'entraide mutuelle. Plus vo
 
 Bonne exploration des communautés C# et .NET !
 
-⏭️
+⏭️ 22.3. [Conférences et événements](/22-ressources-et-communaute/22-3-conferences-et-evenements.md)

@@ -730,4 +730,4 @@ Ces optimisations sont particulièrement importantes dans:
 
 Cependant, n'oubliez pas que l'optimisation prématurée est souvent contre-productive. Mesurez d'abord les performances, identifiez les goulots d'étranglement, puis appliquez ces techniques là où elles auront le plus d'impact.
 
-⏭️
+⏭️ 17.2. [Garbage Collector](/17-performances-et-optimisation/17-2-garbage-collector.md)

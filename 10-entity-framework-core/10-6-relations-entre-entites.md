@@ -498,4 +498,4 @@ Les relations entre entités sont fondamentales dans tout système de base de do
 
 En maîtrisant ces concepts, vous serez en mesure de concevoir des modèles de données robustes et expressifs qui reflètent fidèlement la logique métier de votre application.
 
-⏭️
+⏭️ 10.7. [Chargement de données](/10-entity-framework-core/10-7-chargement-de-donnees.md)

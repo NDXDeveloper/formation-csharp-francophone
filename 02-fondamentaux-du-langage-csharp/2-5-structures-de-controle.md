@@ -883,4 +883,4 @@ decimal CalculerPrix(Product produit, Customer client) => produit switch
 
 Ces structures de contrôle sont les outils fondamentaux qui vous permettent de créer des programmes C# dynamiques et réactifs. En maîtrisant ces concepts, vous serez capable de concevoir des solutions élégantes à des problèmes complexes.
 
-⏭️
+⏭️ 2.6. [Enregistrement des commentaires et documentation](/02-fondamentaux-du-langage-csharp/2-6-enregistrement-des-commentaires-et-documentation.md)

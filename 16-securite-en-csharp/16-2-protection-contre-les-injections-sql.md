@@ -596,4 +596,4 @@ Voici une liste de contrôle rapide pour vous assurer que votre application C# e
 ✅ Effectuez des tests de sécurité réguliers
 ✅ Gardez vos bibliothèques et frameworks à jour
 
-⏭️
+⏭️ 16.3. [Cryptographie](/16-securite-en-csharp/16-3-cryptographie.md)

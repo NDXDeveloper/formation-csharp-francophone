@@ -473,4 +473,4 @@ Pour activer cette fonctionnalité, vous pouvez utiliser la directive `#nullable
 
 En maîtrisant ces concepts, vous serez mieux équipé pour choisir les types appropriés et éviter les erreurs courantes dans vos programmes C#.
 
-⏭️
+⏭️ 2.3. [Variables et constantes](/02-fondamentaux-du-langage-csharp/2-3-variables-et-constantes.md)

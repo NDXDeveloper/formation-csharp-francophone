@@ -2851,4 +2851,4 @@ Ce chapitre vous a donné une introduction complète aux technologies modernes d
 
 Rappelez-vous que l'architecture logicielle est un domaine en constante évolution, et il est important de rester à jour avec les dernières tendances et meilleures pratiques. Continuez à apprendre, à expérimenter, et à affiner vos compétences pour devenir un développeur C# cloud-native accompli.
 
-⏭️
+⏭️ 19. [Design Patterns en C#](/19-design-patterns-en-csharp/README.md)

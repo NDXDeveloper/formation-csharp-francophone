@@ -707,4 +707,4 @@ Le choix du framework dépend souvent des préférences de l'équipe ou des stan
 - [Documentation xUnit](https://xunit.net/docs/getting-started/netcore/cmdline)
 - [Livre "The Art of Unit Testing" par Roy Osherove](https://www.amazon.fr/Art-Unit-Testing-Roy-Osherove/dp/1617290890)
 
-⏭️
+⏭️ 15.2. [Mocking avec Moq](/15-tests-et-qualite-de-code/15-2-mocking-avec-moq.md)

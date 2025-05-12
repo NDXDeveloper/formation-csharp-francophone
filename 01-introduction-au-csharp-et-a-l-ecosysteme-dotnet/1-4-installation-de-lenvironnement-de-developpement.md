@@ -268,4 +268,4 @@ Un projet console C# minimal contient les éléments suivants :
 
 Avec votre environnement de développement configuré, vous êtes maintenant prêt à plonger dans l'apprentissage du langage C# et à commencer à créer vos premières applications. Dans les chapitres suivants, nous explorerons la syntaxe fondamentale du langage et les concepts de programmation orientée objet qui sont au cœur de C#.
 
-⏭️
+⏭️ 1.5. [Vue d'ensemble de l'écosystème .NET](/01-introduction-au-csharp-et-a-l-ecosysteme-dotnet/1-5-vue-densemble-de-lecosysteme-dotnet.md)

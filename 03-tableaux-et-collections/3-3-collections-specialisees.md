@@ -1413,4 +1413,4 @@ Voici un tableau récapitulatif des collections spécialisées présentées dans
 
 En maîtrisant ces collections spécialisées, vous pourrez choisir la structure de données la plus adaptée à chaque situation spécifique, améliorant ainsi la robustesse et la performance de vos applications C#.
 
-⏭️
+⏭️ 4. [Méthodes et fonctions](/04-methodes-et-fonctions/README.md)

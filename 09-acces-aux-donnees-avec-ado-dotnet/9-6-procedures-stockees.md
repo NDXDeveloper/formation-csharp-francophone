@@ -1161,4 +1161,4 @@ Pour travailler efficacement avec les procédures stockées dans ADO.NET :
 
 En suivant ces bonnes pratiques, vous pourrez tirer pleinement parti des avantages des procédures stockées dans vos applications .NET, qu'elles soient développées avec .NET Framework 4.7.2 ou .NET 8.
 
-⏭️
+⏭️ 10. [Entity Framework Core](/10-entity-framework-core/README.md)

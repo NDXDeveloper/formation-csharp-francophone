@@ -816,4 +816,4 @@ Les bonnes pratiques à retenir :
 4. **Permettez à l'utilisateur de changer de langue** à l'exécution
 5. **Tenez compte des conventions culturelles** pour le formatage des nombres, dates et monnaies
 
-⏭️
+⏭️ 9. [Accès aux données avec ADO.NET](/09-acces-aux-donnees-avec-ado-dotnet/README.md)

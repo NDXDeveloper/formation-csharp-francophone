@@ -770,4 +770,4 @@ Les patterns créationnels sont des outils puissants pour gérer la création d'
 
 N'oubliez pas que ces patterns sont des guides, pas des règles strictes. Adaptez-les à vos besoins spécifiques et n'hésitez pas à les combiner quand c'est approprié.
 
-⏭️
+⏭️ 19.2. [Patterns structurels](/19-design-patterns-en-csharp/19-2-patterns-structurels.md)

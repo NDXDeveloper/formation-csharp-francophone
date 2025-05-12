@@ -411,4 +411,4 @@ _context.BulkInsert(listeProduits, new BulkConfig { BatchSize = 1000 });
 
 En suivant ces conseils, vous pourrez créer des applications .NET performantes et fiables qui interagissent efficacement avec vos bases de données MySQL ou MariaDB.
 
-⏭️
+⏭️ 11.4. [Entity Framework Core avec MySQL/MariaDB](/11-integration-avec-mysql-mariadb/11-4-entity-framework-core-avec-mysql-mariadb.md)

@@ -588,4 +588,4 @@ public async Task<Livre> ObtenirLivrePourModification(int livreId, string utilis
 
 La gestion des transactions et de la concurrence est essentielle pour les applications de base de données robustes. Entity Framework Core offre une gamme d'outils pour implémenter la stratégie qui correspond le mieux à vos besoins spécifiques. Que vous choisissiez une approche optimiste, pessimiste ou hybride, l'important est de comprendre les compromis et les implications pour la cohérence des données et les performances de votre application.
 
-⏭️
+⏭️ 11. [Intégration avec MySQL/MariaDB](/11-integration-avec-mysql-mariadb/README.md)

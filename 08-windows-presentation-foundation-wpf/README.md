@@ -36,4 +36,4 @@ Que vous soyez un développeur cherchant à créer des applications d'entreprise
 
 Embarquons ensemble dans cette exploration de Windows Presentation Foundation, une technologie qui continue d'être le choix privilégié pour les applications de bureau Windows exigeant richesse visuelle, flexibilité et performances.
 
-⏭️
+⏭️ 8.1. [Introduction à WPF](/08-windows-presentation-foundation-wpf/8-01-introduction-a-wpf.md)

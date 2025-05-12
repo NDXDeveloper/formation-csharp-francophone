@@ -28,4 +28,4 @@ Les exemples de code présentés seront adaptés tant à .NET Framework 4.7.2 qu
 
 Que vous développiez des services web à haute charge, des applications de traitement de données intensif, des jeux vidéo, ou des systèmes embarqués aux ressources limitées, ce chapitre vous fournira les connaissances et techniques nécessaires pour pousser vos applications C# vers de nouveaux sommets de performance. Dans un contexte où l'efficacité énergétique devient également une préoccupation croissante, ces optimisations servent non seulement la réactivité et l'expérience utilisateur, mais contribuent aussi à une informatique plus durable.
 
-⏭️
+⏭️ 17.1. [Gestion de la mémoire](/17-performances-et-optimisation/17-1-gestion-de-la-memoire.md)

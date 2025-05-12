@@ -2465,4 +2465,4 @@ En suivant les bonnes pratiques et en comprenant les subtilités du modèle, vou
 
 Pour les applications modernes qui nécessitent une réactivité maximale, la maîtrise de async/await et des concepts associés est devenue une compétence essentielle pour tout développeur C#.
 
-⏭️
+⏭️ 7. [Windows Forms (WinForms)](/07-windows-forms-winforms/README.md)

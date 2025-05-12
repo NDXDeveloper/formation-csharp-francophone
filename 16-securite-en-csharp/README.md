@@ -30,4 +30,4 @@ Les exemples de code présentés seront systématiquement adaptés tant à .NET 
 
 Que vous développiez des applications d'entreprise critiques, des services web exposés sur internet, ou des outils destinés à un usage interne, ce chapitre vous fournira les connaissances nécessaires pour identifier et mitiger les risques de sécurité les plus significatifs. Dans un monde où les failles de sécurité peuvent entraîner des conséquences désastreuses - du vol de données sensibles aux dommages réputationnels et financiers - ces compétences sont devenues indispensables pour tout développeur .NET professionnel.
 
-⏭️
+⏭️ 16.1. [Gestion des chaînes de connexion](/16-securite-en-csharp/16-1-gestion-des-chaines-de-connexion.md)

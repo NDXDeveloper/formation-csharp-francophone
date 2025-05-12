@@ -222,4 +222,4 @@ Entity Framework Core est un outil puissant qui facilite grandement l'interactio
 
 Dans les sections suivantes, nous explorerons plus en détail les différentes approches de modélisation, la configuration des relations entre entités, et les techniques avancées de requêtage avec EF Core.
 
-⏭️
+⏭️ 10.2. [Approches de modélisation](/10-entity-framework-core/10-2-approches-de-modelisation.md)

@@ -196,4 +196,4 @@ Microsoft a clairement indiqué que ASP.NET Core est l'avenir de la plateforme. 
 
 À partir de .NET 5, Microsoft a unifié les plateformes sous un seul nom ".NET", sans le suffixe "Core", mais le nouveau framework conserve l'architecture et les avantages d'ASP.NET Core.
 
-⏭️
+⏭️ 12.2. [ASP.NET MVC](/12-developpement-web-avec-asp-dotnet/12-2-asp-dotnet-mvc.md)

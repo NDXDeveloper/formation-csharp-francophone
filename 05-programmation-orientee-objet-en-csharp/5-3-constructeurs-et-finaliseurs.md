@@ -1272,4 +1272,4 @@ public class GestionnaireHandle : IDisposable
 
 La compréhension et l'application appropriées des concepts de constructeurs, d'initialisation d'objets et de gestion des ressources sont essentielles pour créer des applications C# robustes, efficaces et qui n'ont pas de fuites de ressources. Ces pratiques contribuent à la création de code qui est à la fois fiable et maintenable.
 
-⏭️
+⏭️ 5.4. [Héritage](/05-programmation-orientee-objet-en-csharp/5-4-heritage.md)

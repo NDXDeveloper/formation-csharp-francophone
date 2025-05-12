@@ -1543,4 +1543,4 @@ En suivant les bonnes pratiques décrites dans ce tutoriel, vous pourrez créer 
 
 Gardez toujours à l'esprit que les meilleures méthodes d'extension sont celles qui semblent faire naturellement partie du type qu'elles étendent, comme si elles avaient toujours été là.
 
-⏭️
+⏭️ 4.6. [Méthodes locales (C# 7+)](/04-methodes-et-fonctions/4-6-methodes-locales-csharp-7-plus.md)

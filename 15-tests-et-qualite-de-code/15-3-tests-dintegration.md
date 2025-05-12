@@ -867,4 +867,4 @@ En combinant tests unitaires (pour la logique métier), tests d'intégration (po
 - [Selenium WebDriver pour .NET](https://www.selenium.dev/documentation/webdriver/)
 - [bUnit pour tester Blazor](https://bunit.dev/)
 
-⏭️
+⏭️ 15.4. [Analyse de code et refactoring](/15-tests-et-qualite-de-code/15-4-analyse-de-code-et-refactoring.md)

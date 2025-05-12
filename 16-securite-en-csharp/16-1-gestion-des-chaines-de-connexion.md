@@ -414,4 +414,4 @@ app.Run();
 
 En suivant ces bonnes pratiques, vous améliorerez considérablement la sécurité de vos applications C# qui interagissent avec des bases de données.
 
-⏭️
+⏭️ 16.2. [Protection contre les injections SQL](/16-securite-en-csharp/16-2-protection-contre-les-injections-sql.md)

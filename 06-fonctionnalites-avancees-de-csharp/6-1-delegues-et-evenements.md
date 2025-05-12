@@ -1258,4 +1258,4 @@ Les délégués et les événements sont des mécanismes essentiels en C# qui pe
 
 En maîtrisant ces concepts, vous pouvez créer des architectures flexibles où les composants communiquent entre eux de manière faiblement couplée, facilitant ainsi la maintenance et l'extension de votre code.
 
-⏭️
+⏭️ 6.2. [Expressions Lambda](/06-fonctionnalites-avancees-de-csharp/6-2-expressions-lambda.md)

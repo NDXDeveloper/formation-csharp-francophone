@@ -697,4 +697,4 @@ La formation continue et les certifications sont essentielles pour une carrière
 
 N'oubliez pas que l'apprentissage est un marathon, pas un sprint. Soyez patient, consistent, et célébrez chaque victoire sur votre parcours !
 
-⏭️
+⏭️ 22.5. [Blogs et podcasts sur C# et .NET](/22-ressources-et-communaute/22-5-blogs-et-podcasts-sur-csharp-et-dotnet.md)

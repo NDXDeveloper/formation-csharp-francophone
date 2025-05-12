@@ -793,4 +793,4 @@ class Button
 
 6. **Lisibilité** : Pour la logique simple, les lambdas améliorent la lisibilité. Pour la logique complexe, les méthodes nommées sont souvent plus claires.
 
-⏭️
+⏭️ 6.3. [LINQ (Language Integrated Query)](/06-fonctionnalites-avancees-de-csharp/6-3-linq-language-integrated-query.md)

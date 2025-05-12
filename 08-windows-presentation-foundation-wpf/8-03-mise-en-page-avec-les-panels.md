@@ -1906,4 +1906,4 @@ Les bonnes pratiques pour la conception de layouts comprennent l'utilisation de 
 
 La maîtrise de ces différents panels et de leur combinaison est essentielle pour créer des interfaces WPF robustes, flexibles et attrayantes qui offrent une excellente expérience utilisateur.
 
-⏭️
+⏭️ 8.4. [Contrôles WPF](/08-windows-presentation-foundation-wpf/8-04-controles-wpf.md)

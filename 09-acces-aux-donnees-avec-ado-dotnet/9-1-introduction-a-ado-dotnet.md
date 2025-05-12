@@ -456,4 +456,4 @@ Le choix entre ces modèles dépend des besoins spécifiques de votre applicatio
 
 Dans les prochaines sections, nous explorerons plus en détail comment utiliser ces modèles pour effectuer des opérations CRUD (Create, Read, Update, Delete) et comment gérer efficacement les connexions et les transactions avec ADO.NET.
 
-⏭️
+⏭️ 9.2. [Connexion aux bases de données](/09-acces-aux-donnees-avec-ado-dotnet/9-2-connexion-aux-bases-de-donnees.md)

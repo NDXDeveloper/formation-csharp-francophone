@@ -2704,4 +2704,4 @@ Ces concepts fondamentaux vous donnent une base solide pour développer des appl
 
 ASP.NET MVC continue d'évoluer avec chaque nouvelle version, en particulier avec ASP.NET Core, offrant des performances améliorées, une meilleure modularité et une prise en charge multiplateforme.
 
-⏭️
+⏭️ 12.3. [ASP.NET Core](/12-developpement-web-avec-asp-dotnet/12-3-asp-dotnet-core.md)

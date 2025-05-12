@@ -925,4 +925,4 @@ En suivant ces bonnes pratiques, vous pourrez profiter pleinement des avantages 
 
 5. Créez un package MSIX qui prend en charge plusieurs architectures (x86 et x64).
 
-⏭️
+⏭️ 14.7. [Configurations de déploiement](/14-deploiement-et-distribution/14-7-configurations-de-deploiement.md)

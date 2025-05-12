@@ -558,4 +558,4 @@ var produitsEnCache = await _context.Produits
 
 En suivant ces conseils et en utilisant judicieusement les techniques d'indexation, de connection pooling, d'optimisation des requêtes, de profiling et de mise en cache, vous pourrez créer des applications MySQL/MariaDB performantes et évolutives.
 
-⏭️
+⏭️ 11.6. [Sécurité et bonnes pratiques](/11-integration-avec-mysql-mariadb/11-6-securite-et-bonnes-pratiques.md)

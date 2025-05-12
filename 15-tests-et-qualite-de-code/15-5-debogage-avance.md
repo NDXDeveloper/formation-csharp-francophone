@@ -628,4 +628,4 @@ Pratiquez ces techniques dans des scénarios contrôlés avant d'en avoir besoin
 - [Advanced .NET Debugging](https://www.amazon.fr/Advanced-NET-Debugging-Mario-Hewardt/dp/0321578899) par Mario Hewardt
 - [.NET Memory Profiling Tools and Methods](https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/) par Michael Shpilt
 
-⏭️
+⏭️ 15.6. [Outils de qualité de code](/15-tests-et-qualite-de-code/15-6-outils-de-qualite-de-code.md)

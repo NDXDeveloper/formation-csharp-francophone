@@ -1692,4 +1692,4 @@ Interface pour naviguer dans une CollectionView :
 
 Les bindings et le DataContext sont des concepts fondamentaux en WPF qui permettent de créer des applications réactives suivant le pattern MVVM. Ils offrent une séparation claire entre l'interface utilisateur et la logique métier, facilitant la maintenance et les tests unitaires.
 
-⏭️
+⏭️ 8.7. [Commandes et MVVM (Model-View-ViewModel)](/08-windows-presentation-foundation-wpf/8-07-commandes-et-mvvm-model-view-viewmodel.md)

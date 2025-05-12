@@ -788,4 +788,4 @@ L'écosystème C# continue d'évoluer rapidement, offrant aux développeurs de n
 
 Ces évolutions positionnent C# comme un langage moderne, performant et polyvalent, adapté aux défis technologiques actuels et futurs. Les développeurs peuvent ainsi créer des applications innovantes tout en bénéficiant de la robustesse de l'écosystème .NET.
 
-⏭️
+⏭️ 22. [Ressources et communauté](/22-ressources-et-communaute/README.md)

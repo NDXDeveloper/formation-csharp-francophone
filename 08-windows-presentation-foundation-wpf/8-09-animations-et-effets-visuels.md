@@ -1379,4 +1379,4 @@ public partial class Carousel3D : UserControl
 
 Les animations et effets visuels sont des outils puissants pour améliorer l'expérience utilisateur de vos applications WPF. En comprenant les différents types d'animations et en les appliquant judicieusement, vous pouvez créer des interfaces utilisateur plus intuitives et plus attrayantes. N'oubliez pas de toujours équilibrer les effets visuels avec les performances pour assurer une expérience fluide sur tous les appareils.
 
-⏭️
+⏭️ 8.10. [Personnalisation des contrôles](/08-windows-presentation-foundation-wpf/8-10-personnalisation-des-controles.md)

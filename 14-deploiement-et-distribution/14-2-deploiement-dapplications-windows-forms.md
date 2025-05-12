@@ -533,4 +533,4 @@ Le déploiement d'applications Windows Forms offre plusieurs options adaptées �
 4. Comparez la taille de l'application en mode "framework-dependent" et "self-contained"
 5. Écrivez un script qui automatise le déploiement de votre application sur un dossier partagé
 
-⏭️
+⏭️ 14.3. [Déploiement d'applications WPF](/14-deploiement-et-distribution/14-3-deploiement-dapplications-wpf.md)

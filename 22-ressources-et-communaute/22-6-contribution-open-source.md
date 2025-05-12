@@ -639,4 +639,4 @@ N'oubliez pas que l'open source est un marathon, pas un sprint. Chaque contribut
 
 La contribution open source n'est pas seulement un moyen d'améliorer vos compétences techniques, c'est aussi une opportunité de rejoindre une communauté globale de développeurs passionnés qui travaillent ensemble pour créer des outils meilleurs pour tous.
 
-⏭️
+

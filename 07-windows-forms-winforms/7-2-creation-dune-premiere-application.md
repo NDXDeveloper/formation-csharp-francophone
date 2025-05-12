@@ -1356,4 +1356,4 @@ Cette application constitue une base solide que vous pouvez étendre avec des fo
 
 Le code source complet de l'application est maintenant prêt à être utilisé et modifié selon vos besoins.
 
-⏭️
+⏭️ 7.3. [Contrôles de base et leurs propriétés](/07-windows-forms-winforms/7-3-controles-de-base-et-leurs-proprietes.md)

@@ -940,4 +940,4 @@ jobs:
 
 Le DevOps pour projets C# nécessite une combinaison d'outils, de pratiques et de culture. Les plateformes comme GitHub Actions et Azure DevOps facilitent grandement l'automatisation, tandis que l'Infrastructure as Code permet de gérer l'infrastructure de manière fiable et reproductible. L'adoption de ces pratiques améliore significativement la vitesse de développement, la qualité des applications et la fiabilité des déploiements.
 
-⏭️
+⏭️ 21.3. [Tendances et évolutions futures de C#](/21-extensions-et-ecosysteme-csharp/21-3-tendances-et-evolutions-futures-de-csharp.md)

@@ -716,4 +716,4 @@ En maîtrisant les concepts de middleware et de pipeline, vous pourrez construir
 4. Créez un middleware qui enregistre toutes les exceptions dans une base de données.
 5. Implémentez un middleware qui redimensionne automatiquement les images téléchargées.
 
-⏭️
+⏭️ 13. [Applications de bureau modernes avec .NET](/13-applications-de-bureau-modernes-avec-dotnet/README.md)

@@ -947,4 +947,4 @@ Le choix entre classes, structs, record classes et record structs doit être gui
 En comprenant les forces et les limitations de chaque approche, vous pouvez sélectionner le type le plus approprié pour représenter vos données et optimiser à la fois la lisibilité du code et les performances de votre application.
 Les types par valeur, loin d'être un simple détail d'implémentation, peuvent avoir un impact significatif sur l'architecture, les performances et la maintenabilité de vos applications. Utilisés judicieusement, ils constituent un outil puissant dans la conception de systèmes robustes et efficaces en C#.
 
-⏭️
+⏭️ 6. [Fonctionnalités avancées de C#](/06-fonctionnalites-avancees-de-csharp/README.md)

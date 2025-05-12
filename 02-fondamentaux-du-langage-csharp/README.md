@@ -28,4 +28,4 @@ Que vous construisiez des applications de bureau, des services web, des jeux ou 
 
 Plongeons maintenant dans le monde fascinant du langage C#.
 
-⏭️
+⏭️ 2.1. [Structure d'un programme C#](/02-fondamentaux-du-langage-csharp/2-1-structure-dun-programme-csharp.md)

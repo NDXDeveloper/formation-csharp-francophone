@@ -26,4 +26,4 @@ Le monde de C# et .NET est riche, dynamique et en constante évolution. Prépare
 
 Commençons notre exploration !
 
-⏭️
+⏭️ 1.1. [Qu'est-ce que C# ?](/01-introduction-au-csharp-et-a-l-ecosysteme-dotnet/1-1-quest-ce-que-csharp.md)

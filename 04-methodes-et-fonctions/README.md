@@ -26,4 +26,4 @@ Que vous développiez des applications d'entreprise complexes, des services web 
 
 Embarquons ensemble dans cette exploration des méthodes et fonctions en C#, l'un des aspects les plus fondamentaux et les plus puissants du langage.
 
-⏭️
+⏭️ 4.1. [Définition et appel de méthodes](/04-methodes-et-fonctions/4-1-definition-et-appel-de-methodes.md)

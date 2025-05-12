@@ -2354,4 +2354,4 @@ await Task.WhenAll(producteur, consommateur);
 
 En maîtrisant les concepts et techniques décrits dans ce chapitre, vous serez bien équipé pour développer des applications C# efficaces et performantes qui tirent pleinement parti des processeurs multi-cœurs modernes.
 
-⏭️
+⏭️ 17.4. [Optimisation des requêtes LINQ](/17-performances-et-optimisation/17-4-optimisation-des-requetes-linq.md)

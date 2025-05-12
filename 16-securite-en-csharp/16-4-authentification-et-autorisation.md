@@ -1716,4 +1716,4 @@ L'authentification et l'autorisation sont des aspects critiques de la sécurité
 
 En suivant ces pratiques, vous construirez des applications C# robustes et sécurisées, offrant une expérience utilisateur fluide tout en protégeant les données sensibles.
 
-⏭️
+⏭️ 16.5. [Gestion sécurisée des secrets](/16-securite-en-csharp/16-5-gestion-securisee-des-secrets.md)

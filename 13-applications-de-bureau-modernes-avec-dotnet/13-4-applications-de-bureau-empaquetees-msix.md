@@ -405,4 +405,4 @@ Microsoft gère automatiquement la distribution des mises à jour différentiell
 
 En résumé, MSIX représente une avancée significative dans la façon de distribuer et gérer les applications Windows. Que vous soyez un développeur indépendant ou une grande entreprise, MSIX offre des avantages considérables en termes de fiabilité, de sécurité et de facilité de gestion par rapport aux technologies d'installation précédentes.
 
-⏭️
+⏭️ 14. [Déploiement et distribution](/14-deploiement-et-distribution/README.md)

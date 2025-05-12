@@ -1267,4 +1267,4 @@ L'utilisation de `DialogResult` permet de coordonner les actions entre les formu
 
 En combinant ces outils, vous pouvez créer des interfaces utilisateur intuitives et conviviales qui guident efficacement l'utilisateur dans ses interactions avec votre application.
 
-⏭️
+⏭️ 7.8. [Liaison de données (Data Binding)](/07-windows-forms-winforms/7-8-liaison-de-donnees-data-binding.md)

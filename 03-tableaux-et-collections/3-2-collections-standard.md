@@ -1286,4 +1286,4 @@ Voici un tableau récapitulatif qui vous aidera à choisir la collection appropr
 
 Avec ces connaissances sur les collections standard de C#, vous êtes maintenant équipé pour choisir la structure de données la plus adaptée à vos besoins et implémenter des solutions efficaces.
 
-⏭️
+⏭️ 3.3. [Collections spécialisées](/03-tableaux-et-collections/3-3-collections-specialisees.md)

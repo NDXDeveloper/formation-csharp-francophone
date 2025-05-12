@@ -580,4 +580,4 @@ La principale différence est que les propriétés en lecture seule peuvent êtr
 
 La compréhension de ces concepts vous permettra de mieux gérer les données dans vos programmes C# et d'éviter des erreurs courantes liées à la manipulation des variables.
 
-⏭️
+⏭️ 2.4. [Opérateurs](/02-fondamentaux-du-langage-csharp/2-4-operateurs.md)

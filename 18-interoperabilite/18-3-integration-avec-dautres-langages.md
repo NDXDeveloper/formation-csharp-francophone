@@ -1291,4 +1291,4 @@ En général, privilégiez la solution la plus simple qui répond à vos besoins
 - [R.NET sur GitHub](https://github.com/rdotnet/rdotnet)
 - [Documentation R](https://www.r-project.org/documentation/)
 
-⏭️
+⏭️ 18.4. [Intégration avec JavaScript/TypeScript](/18-interoperabilite/18-4-integration-avec-javascript-typescript.md)

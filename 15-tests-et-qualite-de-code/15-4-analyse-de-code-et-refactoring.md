@@ -1390,4 +1390,4 @@ L'analyse de code et le refactoring sont des compétences fondamentales pour tou
 
 Rappelez-vous que la qualité du code n'est pas un objectif ponctuel mais un processus continu. Prenez l'habitude d'analyser et de refactoriser votre code régulièrement, et vous constaterez rapidement des améliorations dans la maintenabilité et l'évolutivité de vos projets.
 
-⏭️
+⏭️ 15.5. [Débogage avancé](/15-tests-et-qualite-de-code/15-5-debogage-avance.md)

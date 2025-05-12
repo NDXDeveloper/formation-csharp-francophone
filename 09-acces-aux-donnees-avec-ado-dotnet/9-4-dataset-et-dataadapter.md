@@ -1346,4 +1346,4 @@ Bien que les approches plus modernes comme Entity Framework soient souvent privi
 
 Dans le développement .NET moderne (.NET 8), ces outils sont toujours disponibles et fonctionnels, bien que les approches orientées ORM comme Entity Framework Core soient généralement recommandées pour les nouveaux projets.
 
-⏭️
+⏭️ 9.5. [Transactions](/09-acces-aux-donnees-avec-ado-dotnet/9-5-transactions.md)

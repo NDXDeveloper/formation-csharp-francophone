@@ -614,4 +614,4 @@ L'expression switch est souvent plus lisible lorsque vous avez plus de deux cas 
 
 La maîtrise de ces opérateurs vous permettra d'écrire un code plus concis, plus expressif et plus robuste en C#.
 
-⏭️
+⏭️ 2.5. [Structures de contrôle](/02-fondamentaux-du-langage-csharp/2-5-structures-de-controle.md)

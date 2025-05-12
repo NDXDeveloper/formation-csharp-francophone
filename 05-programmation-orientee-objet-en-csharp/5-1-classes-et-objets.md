@@ -1387,4 +1387,4 @@ Dans .NET Framework 4.7.2, vous disposez déjà d'un ensemble solide de fonction
 
 Que vous travailliez avec .NET Framework 4.7.2 ou .NET 8, une bonne compréhension des concepts de base des classes et des objets vous permettra d'écrire un code C# plus robuste, plus maintenable et plus expressif.
 
-⏭️
+⏭️ 5.2. [Propriétés et encapsulation](/05-programmation-orientee-objet-en-csharp/5-2-proprietes-et-encapsulation.md)

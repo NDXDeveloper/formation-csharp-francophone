@@ -1226,4 +1226,4 @@ Avec l'arrivée de .NET Core 3.0 puis .NET 5 et versions ultérieures, WPF a év
 
 Bien que WPF ne soit pas parfait pour tous les scénarios (notamment les applications cross-plateformes), il reste un choix solide pour développer des applications Windows riches et performantes avec une interface utilisateur sophistiquée.
 
-⏭️
+⏭️ 8.2. [XAML et fondamentaux](/08-windows-presentation-foundation-wpf/8-02-xaml-et-fondamentaux.md)

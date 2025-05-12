@@ -258,4 +258,4 @@ N'hésitez pas à marquer vos pages préférées et à créer vos propres notes 
 
 Bonne exploration de la documentation !
 
-⏭️
+⏭️ 22.2. [Communautés en ligne](/22-ressources-et-communaute/22-2-communautes-en-ligne.md)

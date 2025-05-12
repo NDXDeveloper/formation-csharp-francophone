@@ -218,4 +218,4 @@ Le choix entre C# et d'autres langages dépend largement du contexte spécifique
 
 Pour de nombreux développeurs professionnels, maîtriser C# en complément d'autres langages comme JavaScript ou Python offre une polyvalence précieuse sur le marché du travail et la capacité de choisir le meilleur outil pour chaque tâche.
 
-⏭️
+⏭️ 1.4. [Installation de l'environnement de développement](/01-introduction-au-csharp-et-a-l-ecosysteme-dotnet/1-4-installation-de-lenvironnement-de-developpement.md)

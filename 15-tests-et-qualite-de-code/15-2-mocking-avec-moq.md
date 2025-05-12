@@ -613,4 +613,4 @@ Pour conclure, voici quelques conseils pour bien utiliser les mocks dans vos tes
 - [Documentation de FakeItEasy](https://fakeiteasy.github.io/)
 - [Livre "The Art of Unit Testing" par Roy Osherove](https://www.amazon.fr/Art-Unit-Testing-Roy-Osherove/dp/1617290890)
 
-⏭️
+⏭️ 15.3. [Tests d'intégration](/15-tests-et-qualite-de-code/15-3-tests-dintegration.md)

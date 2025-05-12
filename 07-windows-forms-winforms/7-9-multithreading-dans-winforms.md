@@ -1189,4 +1189,4 @@ Chaque approche a ses avantages, mais pour les nouvelles applications, le modèl
 
 En suivant les bonnes pratiques et en évitant les pièges courants, vous pourrez créer des applications Windows Forms qui restent réactives même pendant l'exécution des opérations les plus intensives.
 
-⏭️
+⏭️ 8. [Windows Presentation Foundation (WPF)](/08-windows-presentation-foundation-wpf/README.md)

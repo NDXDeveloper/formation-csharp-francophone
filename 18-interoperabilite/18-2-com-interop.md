@@ -777,4 +777,4 @@ Points clés à retenir :
 - [Guide de l'API Office](https://docs.microsoft.com/fr-fr/office/client-developer/office-client-development)
 - [Livre "COM and .NET Interoperability" par Andrew Troelsen](https://www.amazon.com/COM-NET-Interoperability-Andrew-Troelsen/dp/1590590503)
 
-⏭️
+⏭️ 18.3. [Intégration avec d'autres langages](/18-interoperabilite/18-3-integration-avec-dautres-langages.md)

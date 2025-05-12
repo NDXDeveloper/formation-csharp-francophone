@@ -2909,4 +2909,4 @@ En maîtrisant ces différentes approches, vous serez en mesure de choisir la me
 - [Appel de fonctions JavaScript depuis C#](https://docs.microsoft.com/fr-fr/aspnet/core/blazor/javascript-interoperability/call-javascript-from-dotnet)
 - [Appel de méthodes .NET depuis JavaScript](https://docs.microsoft.com/fr-fr/aspnet/core/blazor/javascript-interoperability/call-dotnet-from-javascript)
 
-⏭️
+⏭️ 18.5. [Intégration cloud et services](/18-interoperabilite/18-5-integration-cloud-et-services.md)

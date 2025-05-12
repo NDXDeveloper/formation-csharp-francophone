@@ -1111,4 +1111,4 @@ Et enfin, lorsque vous travaillez avec le GC, suivez cette approche :
 
 En maîtrisant ces concepts, vous tirerez le meilleur parti du Garbage Collector tout en évitant ses pièges potentiels.
 
-⏭️
+⏭️ 17.3. [Multithreading et parallélisme](/17-performances-et-optimisation/17-3-multithreading-et-parallelisme.md)

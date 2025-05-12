@@ -742,4 +742,4 @@ private void ConfigurerJournalisation()
 
 Windows App SDK représente une évolution majeure dans le développement d'applications Windows, offrant une voie unifiée pour créer des applications modernes tout en préservant la compatibilité avec les approches existantes. En combinant les forces de Win32 et d'UWP, il permet aux développeurs de créer des applications riches et performantes qui fonctionnent sur un large éventail d'appareils Windows.
 
-⏭️
+⏭️ 13.2. [MAUI (Multi-platform App UI)](/13-applications-de-bureau-modernes-avec-dotnet/13-2-maui-multi-platform-app-ui.md)

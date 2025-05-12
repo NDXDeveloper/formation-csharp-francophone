@@ -1241,4 +1241,4 @@ L'exécution de commandes SQL est au cœur de l'accès aux données avec ADO.NET
 
 En suivant ces bonnes pratiques, vous créerez des applications robustes qui interagissent efficacement avec vos bases de données.
 
-⏭️
+⏭️ 9.4. [DataSet et DataAdapter](/09-acces-aux-donnees-avec-ado-dotnet/9-4-dataset-et-dataadapter.md)

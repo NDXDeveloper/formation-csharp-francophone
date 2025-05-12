@@ -678,4 +678,4 @@ Pour les applications critiques, envisagez :
 
 En suivant ces recommandations, vous pourrez créer des applications MySQL/MariaDB sécurisées et robustes qui protègent efficacement vos données et respectent les exigences réglementaires.
 
-⏭️
+⏭️ 12. [Développement Web avec ASP.NET](/12-developpement-web-avec-asp-dotnet/README.md)

@@ -64,4 +64,4 @@ C# offre de nombreux avantages qui en font un excellent choix pour les développ
 
 Dans la prochaine section, nous explorerons l'écosystème .NET, la plateforme sur laquelle s'exécute le code C# et qui fournit l'infrastructure nécessaire à son fonctionnement.
 
-⏭️
+⏭️ 1.2. [Histoire et évolution de C#](/01-introduction-au-csharp-et-a-l-ecosysteme-dotnet/1-2-histoire-et-evolution-de-csharp.md)

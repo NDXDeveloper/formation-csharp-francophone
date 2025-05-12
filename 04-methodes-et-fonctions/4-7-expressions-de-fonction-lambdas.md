@@ -607,4 +607,4 @@ Les expressions lambda sont particulièrement utiles dans les scénarios tels qu
 
 En maîtrisant les expressions lambda, vous pourrez écrire un code C# plus élégant, plus expressif et plus modulaire.
 
-⏭️
+⏭️ 5. [Programmation orientée objet en C#](/05-programmation-orientee-objet-en-csharp/README.md)

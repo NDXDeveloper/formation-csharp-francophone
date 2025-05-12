@@ -2163,4 +2163,4 @@ En investissant du temps dans une documentation de qualité avec Swagger/OpenAPI
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)
 - [Stoplight - Plateforme de conception API](https://stoplight.io/)
 
-⏭️
+⏭️ 12.7. [Authentification et autorisation](/12-developpement-web-avec-asp-dotnet/12-7-authentification-et-autorisation.md)

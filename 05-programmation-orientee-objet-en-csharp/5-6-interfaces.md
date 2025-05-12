@@ -534,4 +534,4 @@ public class Program
 
 Les interfaces sont l'un des outils les plus puissants de C# pour créer du code découplé, maintenable et testable. Elles constituent un élément essentiel de l'architecture orientée objet et sont largement utilisées dans les patterns de conception comme la Dépendance Injection.
 
-⏭️
+⏭️ 5.7. [Classes abstraites](/05-programmation-orientee-objet-en-csharp/5-7-classes-abstraites.md)

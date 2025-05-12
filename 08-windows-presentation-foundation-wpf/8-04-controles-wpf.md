@@ -1444,4 +1444,4 @@ Les contrôles WPF offrent une grande flexibilité et peuvent être personnalis�
 
 Pour des applications complexes, il est recommandé d'utiliser des patterns comme MVVM (Model-View-ViewModel) pour séparer clairement la logique métier de l'interface utilisateur et faciliter la maintenance et les tests.
 
-⏭️
+⏭️ 8.5. [Styles et templates](/08-windows-presentation-foundation-wpf/8-05-styles-et-templates.md)

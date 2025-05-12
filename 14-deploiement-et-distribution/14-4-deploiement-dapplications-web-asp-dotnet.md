@@ -1423,4 +1423,4 @@ En suivant ces bonnes pratiques, vous pourrez déployer et maintenir des applica
 
 5. Implémentez un système complet de supervision pour une application ASP.NET Core, comprenant des logs, des métriques, des health checks et des alertes.
 
-⏭️
+⏭️ 14.5. [Publication avec ClickOnce](/14-deploiement-et-distribution/14-5-publication-avec-clickonce.md)

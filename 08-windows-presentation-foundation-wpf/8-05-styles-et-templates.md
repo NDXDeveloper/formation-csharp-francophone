@@ -1770,4 +1770,4 @@ public class MainViewModel : INotifyPropertyChanged
 
 Les styles et templates en WPF offrent une grande flexibilité pour personnaliser l'apparence et le comportement des contrôles. En combinant les styles, les templates et les triggers, vous pouvez créer des interfaces utilisateur riches et réactives qui offrent une expérience utilisateur cohérente et attrayante.
 
-⏭️
+⏭️ 8.6. [Binding et DataContext](/08-windows-presentation-foundation-wpf/8-06-binding-et-datacontext.md)
