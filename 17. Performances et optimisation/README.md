@@ -1,5 +1,7 @@
 # 17. Performances et optimisation
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Performances et optimisation](https://via.placeholder.com/800x200?text=Performances+et+optimisation)
 
 ## Introduction
@@ -25,3 +27,5 @@ Tout au long de ce chapitre, nous adopterons une approche pragmatique et nuancé
 Les exemples de code présentés seront adaptés tant à .NET Framework 4.7.2 qu'à .NET 8, mettant en évidence les évolutions significatives entre ces plateformes et les opportunités d'optimisation propres à chacune. Cette dualité reflète la réalité du terrain, où de nombreuses organisations gèrent simultanément des applications héritées et des développements modernes.
 
 Que vous développiez des services web à haute charge, des applications de traitement de données intensif, des jeux vidéo, ou des systèmes embarqués aux ressources limitées, ce chapitre vous fournira les connaissances et techniques nécessaires pour pousser vos applications C# vers de nouveaux sommets de performance. Dans un contexte où l'efficacité énergétique devient également une préoccupation croissante, ces optimisations servent non seulement la réactivité et l'expérience utilisateur, mais contribuent aussi à une informatique plus durable.
+
+⏭️

@@ -1,5 +1,7 @@
 # Conclusion
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 Au terme de ce voyage approfondi à travers l'univers C# et .NET, il est temps de prendre du recul et d'apprécier le chemin parcouru. Cette formation vous a guidé depuis les fondamentaux du langage jusqu'aux architectures sophistiquées et aux pratiques avancées, en passant par la réalisation de projets concrets et l'exploration de l'écosystème étendu de la plateforme. À travers ces 22 chapitres, nous avons construit ensemble non seulement une compréhension technique, mais aussi une vision globale et nuancée de ce qu'implique le développement professionnel avec C# dans le contexte contemporain.
 
 Le choix délibéré de couvrir à la fois .NET Framework 4.7.2 et .NET 8 reflète la réalité du terrain où coexistent héritage technologique et innovation. Cette dualité vous a préparé à naviguer efficacement dans des environnements professionnels variés, qu'il s'agisse de maintenir des applications existantes ou de concevoir de nouvelles solutions tirant parti des dernières avancées de la plateforme. Cette polyvalence représente un atout considérable dans un marché du travail où la capacité d'adaptation est aussi valorisée que l'expertise technique.
@@ -29,3 +31,5 @@ Notre parcours commun s'achève ici, mais votre aventure avec C# et .NET ne fait
 Nous vous souhaitons un parcours professionnel enrichissant, jalonné de défis stimulants, d'apprentissages constants et de réalisations dont vous pourrez être fier. Le code que vous écrirez demain contribuera, à sa mesure, à façonner le monde numérique de demain.
 
 Bon code, et à bientôt dans l'écosystème C# et .NET !
+
+🔝 Retour au [Sommaire](/SOMMAIRE.md)

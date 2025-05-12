@@ -1,5 +1,7 @@
 # 16. Sécurité en C#
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Sécurité en C#](https://via.placeholder.com/800x200?text=S%C3%A9curit%C3%A9+en+C%23)
 
 ## Introduction
@@ -27,3 +29,5 @@ Nous mettrons également l'accent sur l'importance d'une approche défensive en 
 Les exemples de code présentés seront systématiquement adaptés tant à .NET Framework 4.7.2 qu'à .NET 8, soulignant les évolutions et améliorations apportées par les versions récentes du framework, mais aussi les techniques qui restent valables à travers les générations. Cette dualité reflète la réalité du terrain, où de nombreuses organisations maintiennent des applications legacy tout en développant de nouvelles solutions avec les technologies les plus récentes.
 
 Que vous développiez des applications d'entreprise critiques, des services web exposés sur internet, ou des outils destinés à un usage interne, ce chapitre vous fournira les connaissances nécessaires pour identifier et mitiger les risques de sécurité les plus significatifs. Dans un monde où les failles de sécurité peuvent entraîner des conséquences désastreuses - du vol de données sensibles aux dommages réputationnels et financiers - ces compétences sont devenues indispensables pour tout développeur .NET professionnel.
+
+⏭️

@@ -1,5 +1,6 @@
 # 1. Introduction au C# et à l'écosystème .NET
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
 
 Bienvenue dans ce voyage au cœur de C# et de l'écosystème .NET. Que vous soyez un programmeur débutant ou un développeur expérimenté souhaitant élargir vos compétences, ce tutoriel vous guidera à travers les concepts fondamentaux et avancés de l'un des langages de programmation les plus puissants et polyvalents disponibles aujourd'hui.
 
@@ -24,3 +25,5 @@ Enfin, nous vous guiderons dans la création de votre premier programme "Hello W
 Le monde de C# et .NET est riche, dynamique et en constante évolution. Préparez-vous à découvrir un écosystème qui allie élégance, puissance et productivité, et qui continue d'innover pour répondre aux défis du développement logiciel moderne.
 
 Commençons notre exploration !
+
+⏭️

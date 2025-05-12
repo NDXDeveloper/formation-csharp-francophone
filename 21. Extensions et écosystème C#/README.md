@@ -1,5 +1,7 @@
 # 21. Extensions et écosystème C#
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Extensions et écosystème C#](https://via.placeholder.com/800x200?text=Extensions+et+%C3%A9cosyst%C3%A8me+C%23)
 
 ## Introduction
@@ -23,3 +25,5 @@ Un accent particulier sera mis sur l'approche communautaire et open source qui c
 Nous aborderons également les considérations pratiques liées à la gestion des dépendances externes, notamment via NuGet, outil central de l'écosystème .NET. Les stratégies pour maintenir des dépendances à jour, gérer les incompatibilités potentielles et évaluer l'impact de ces bibliothèques sur la sécurité et les performances des applications seront discutées en détail.
 
 Que vous soyez développeur junior cherchant à élargir votre boîte à outils au-delà des fonctionnalités de base, professionnel expérimenté souhaitant moderniser vos pratiques et adopter les dernières innovations de l'écosystème, ou architecte responsable de définir les standards technologiques pour votre organisation, ce chapitre vous fournira une carte précieuse pour naviguer dans le vaste paysage des extensions et technologies complémentaires à C#. Dans un monde où la productivité et l'innovation dépendent largement de la capacité à tirer parti efficacement des ressources existantes, cette connaissance approfondie de l'écosystème représente un avantage compétitif significatif pour tout développeur .NET.
+
+⏭️

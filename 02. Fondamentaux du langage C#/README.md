@@ -1,5 +1,7 @@
 # 2. Fondamentaux du langage C#
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 Bienvenue dans cette exploration approfondie des fondamentaux du langage C#. Ce chapitre est conçu pour établir une base solide de connaissances, que vous soyez débutant en programmation ou développeur expérimenté venant d'un autre langage.
 
 C# (prononcé "C sharp") est un langage de programmation moderne, orienté objet et fortement typé, développé par Microsoft. Depuis sa première version en 2002, C# a considérablement évolué pour devenir l'un des langages les plus polyvalents et puissants de l'écosystème de développement. Il combine l'efficacité du C++ avec la simplicité relative de langages comme Java, tout en introduisant des fonctionnalités innovantes à chaque nouvelle version.
@@ -25,3 +27,5 @@ Les exemples de code fournis sont conçus pour être clairs, pratiques et imméd
 Que vous construisiez des applications de bureau, des services web, des jeux ou des applications mobiles avec Xamarin ou MAUI, les fondamentaux présentés dans ce chapitre sont essentiels pour maîtriser le développement en C# et exploiter pleinement la puissance du framework .NET.
 
 Plongeons maintenant dans le monde fascinant du langage C#.
+
+⏭️

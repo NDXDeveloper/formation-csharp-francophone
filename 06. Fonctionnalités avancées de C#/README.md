@@ -1,5 +1,7 @@
 # 6. Fonctionnalités avancées de C#
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Fonctionnalités avancées de C#](https://via.placeholder.com/800x200?text=Fonctionnalit%C3%A9s+avanc%C3%A9es+de+C%23)
 
 ## Introduction
@@ -29,3 +31,5 @@ Ces fonctionnalités avancées ne sont pas simplement des outils supplémentaire
 Que vous développiez des applications d'entreprise à grande échelle, des services cloud haute performance, ou des applications mobiles réactives, les fonctionnalités avancées présentées dans ce chapitre vous aideront à tirer pleinement parti de la puissance et de l'expressivité de C#.
 
 Embarquons ensemble dans cette exploration fascinante des capacités avancées de C#, un voyage qui élèvera votre expertise de développeur à de nouveaux sommets.
+
+⏭️

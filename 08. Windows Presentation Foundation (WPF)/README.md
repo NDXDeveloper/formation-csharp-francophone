@@ -1,5 +1,7 @@
 # 8. Windows Presentation Foundation (WPF)
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Windows Presentation Foundation (WPF)](https://via.placeholder.com/800x200?text=Windows+Presentation+Foundation+%28WPF%29)
 
 ## Introduction
@@ -33,3 +35,5 @@ Tout au long de ce chapitre, nous mettrons en évidence les différences entre l
 Que vous soyez un développeur cherchant à créer des applications d'entreprise sophistiquées, des outils professionnels avec des interfaces riches, ou simplement à explorer les possibilités offertes par l'une des technologies d'interface utilisateur les plus puissantes de Microsoft, ce chapitre vous fournira les connaissances et les techniques nécessaires pour maîtriser WPF dans toute sa profondeur et sa complexité.
 
 Embarquons ensemble dans cette exploration de Windows Presentation Foundation, une technologie qui continue d'être le choix privilégié pour les applications de bureau Windows exigeant richesse visuelle, flexibilité et performances.
+
+⏭️

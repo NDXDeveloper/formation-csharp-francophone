@@ -1,5 +1,7 @@
 # 22. Ressources et communauté
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Ressources et communauté](https://via.placeholder.com/800x200?text=Ressources+et+communaut%C3%A9)
 
 ## Introduction
@@ -27,3 +29,5 @@ Nous soulignerons également l'importance de développer un réseau professionne
 La dimension éthique et la responsabilité professionnelle seront également abordées, notamment l'importance de la réciprocité dans les interactions communautaires, le respect de la propriété intellectuelle, et la promotion d'un environnement inclusif et bienveillant. Ces valeurs, loin d'être périphériques, sont au cœur de ce qui fait la force et la pérennité de l'écosystème .NET.
 
 En conclusion, ce chapitre vise à transformer votre relation avec C# et .NET, vous invitant à passer du rôle de simple consommateur de technologies à celui de participant actif dans un écosystème vivant et collaboratif. Les ressources et communautés présentées ne sont pas seulement des moyens d'approfondir vos connaissances techniques, mais également des opportunités d'enrichissement professionnel, d'influence positive, et de connexions humaines significatives. Dans un domaine aussi rapidement évolutif que le développement logiciel, cette dimension communautaire n'est pas un luxe mais une nécessité pour maintenir sa pertinence et son épanouissement professionnel à long terme.
+
+⏭️

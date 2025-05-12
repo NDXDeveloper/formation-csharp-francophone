@@ -1,5 +1,7 @@
 # 15. Tests et qualité de code
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Tests et qualité de code](https://via.placeholder.com/800x200?text=Tests+et+qualit%C3%A9+de+code)
 
 ## Introduction
@@ -25,3 +27,5 @@ Tout au long de ce chapitre, nous adopterons une approche pragmatique, reconnais
 Nous mettrons également l'accent sur l'aspect humain et organisationnel de la qualité logicielle, reconnaissant que les meilleurs outils ne peuvent compenser l'absence d'une culture d'équipe valorisant l'excellence technique et la responsabilité collective envers la qualité du code.
 
 Que vous soyez développeur individuel cherchant à améliorer vos pratiques, membre d'une équipe visant à établir des standards de qualité, ou responsable technique préoccupé par la pérennité d'une base de code complexe, ce chapitre vous fournira les connaissances et techniques nécessaires pour élever significativement la qualité de vos applications .NET, garantissant ainsi leur robustesse, leur évolutivité et leur maintenabilité sur le long terme.
+
+⏭️

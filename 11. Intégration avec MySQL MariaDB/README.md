@@ -1,5 +1,7 @@
 # 11. Intégration avec MySQL/MariaDB
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Intégration avec MySQL/MariaDB](https://via.placeholder.com/800x200?text=Int%C3%A9gration+avec+MySQL%2FMariaDB)
 
 ## Introduction
@@ -27,3 +29,5 @@ Tout au long de ce chapitre, nous illustrerons nos explications avec des exemple
 Que vous développiez une nouvelle application .NET cherchant à tirer parti de l'écosystème MySQL/MariaDB, que vous migriez une application existante de SQL Server vers ces alternatives, ou que vous mainteniez une base de code legacy nécessitant une modernisation de son accès aux données, ce chapitre vous fournira les connaissances et techniques nécessaires pour une intégration réussie et performante.
 
 Embarquons ensemble dans cette exploration de l'intégration entre .NET et MySQL/MariaDB, un mariage technologique qui offre flexibilité, performance et économie pour vos applications axées sur les données.
+
+⏭️

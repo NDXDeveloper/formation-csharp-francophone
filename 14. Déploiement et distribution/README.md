@@ -1,5 +1,7 @@
 # 14. Déploiement et distribution
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Déploiement et distribution](https://via.placeholder.com/800x200?text=D%C3%A9ploiement+et+distribution)
 
 ## Introduction
@@ -29,3 +31,5 @@ Nous mettrons également l'accent sur les meilleures pratiques qui transcendent 
 Que vous soyez responsable du déploiement d'applications critiques d'entreprise ou développeur indépendant cherchant à distribuer votre création au plus grand nombre, ce chapitre vous fournira les connaissances nécessaires pour choisir et implémenter les stratégies de déploiement les plus adaptées à votre contexte spécifique, en tirant parti des avancées les plus récentes tout en respectant les contraintes de votre environnement.
 
 Embarquons ensemble dans cette exploration des techniques de déploiement et distribution d'applications .NET, un domaine en constante évolution qui, bien maîtrisé, permet de transformer d'excellents produits en solutions véritablement accessibles et utilisables.
+
+⏭️

@@ -1,5 +1,7 @@
 # 5. Programmation orientée objet en C#
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Programmation orientée objet en C#](https://via.placeholder.com/800x200?text=Programmation+orient%C3%A9e+objet+en+C%23)
 
 ## Introduction
@@ -29,3 +31,5 @@ Enfin, nous aborderons les types par valeur (structs) et leurs différences fond
 Que vous développiez des applications d'entreprise complexes, des services web, des jeux vidéo ou des applications mobiles, la maîtrise de la programmation orientée objet en C# est essentielle pour créer des solutions robustes, maintenables et évolutives. Ce chapitre vous fournira les connaissances nécessaires pour exploiter pleinement la puissance et l'élégance de ce paradigme dans vos projets.
 
 Embarquons ensemble dans cette exploration approfondie de la programmation orientée objet en C#, un voyage qui transformera fondamentalement votre approche du développement logiciel.
+
+⏭️

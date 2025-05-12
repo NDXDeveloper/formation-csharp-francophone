@@ -1,5 +1,7 @@
 # 19. Design Patterns en C#
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Design Patterns en C#](https://via.placeholder.com/800x200?text=Design+Patterns+en+C%23)
 
 ## Introduction
@@ -27,3 +29,5 @@ Les exemples de code présentés seront systématiquement adaptés aux deux envi
 Bien que les design patterns constituent des outils puissants, nous rappellerons qu'ils ne sont pas une fin en soi mais des moyens au service d'une conception logicielle de qualité. L'application mécanique ou excessive des patterns peut conduire à une complexité inutile - un anti-pattern souvent désigné comme "patternite". Notre approche encouragera donc une utilisation réfléchie, où chaque pattern est appliqué en réponse à un besoin concret et dans le respect des principes fondamentaux de conception comme SOLID.
 
 Que vous soyez développeur junior cherchant à maîtriser ces concepts essentiels, développeur expérimenté souhaitant affiner votre compréhension des nuances d'implémentation en C#, ou architecte responsable de la conception de systèmes complexes, ce chapitre vous fournira les connaissances et techniques nécessaires pour exploiter efficacement les design patterns dans vos projets .NET. Dans un monde où la qualité et l'évolutivité des logiciels sont devenues des exigences fondamentales, ces compétences constituent un atout précieux pour tout professionnel du développement C#.
+
+⏭️

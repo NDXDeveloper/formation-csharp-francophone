@@ -1,5 +1,7 @@
 # 13. Applications de bureau modernes avec .NET
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Applications de bureau modernes avec .NET](https://via.placeholder.com/800x200?text=Applications+de+bureau+modernes+avec+.NET)
 
 ## Introduction
@@ -23,3 +25,5 @@ Nous accorderons une attention particulière aux défis spécifiques du dévelop
 Ce chapitre s'adresse aussi bien aux développeurs expérimentés cherchant à moderniser leurs compétences et applications qu'aux nouveaux venus dans l'écosystème .NET souhaitant créer des applications de bureau sans l'héritage des anciens paradigmes. Que vous développiez une application d'entreprise complexe, un outil professionnel spécialisé ou une application grand public destinée au Microsoft Store, vous trouverez ici les connaissances nécessaires pour faire des choix technologiques éclairés et mettre en œuvre des solutions robustes et pérennes.
 
 Embarquons ensemble dans cette exploration du développement d'applications de bureau modernes avec .NET, un domaine en pleine transformation qui combine le meilleur des traditions établies avec les innovations les plus récentes, offrant un avenir prometteur pour cette catégorie d'applications qui, loin de disparaître face au web et au mobile, continue d'évoluer et de se réinventer.
+
+⏭️

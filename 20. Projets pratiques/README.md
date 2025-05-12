@@ -1,5 +1,6 @@
- 
 # 20. Projets pratiques
+
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
 
 ![Projets pratiques](https://via.placeholder.com/800x200?text=Projets+pratiques)
 
@@ -28,3 +29,5 @@ Les projets sont conçus pour être suffisamment complexes pour illustrer des sc
 Les aspects transversaux comme la gestion des erreurs, la journalisation, la sécurité, les tests et le déploiement seront abordés dans chaque projet, reflétant leur importance fondamentale dans le développement d'applications professionnelles. Ces considérations, souvent sous-représentées dans les tutoriels centrés sur la technologie, sont essentielles pour transformer un code fonctionnel en une solution robuste et prête pour la production.
 
 Que vous soyez étudiant cherchant à consolider vos connaissances théoriques par des applications concrètes, développeur en reconversion souhaitant accélérer votre montée en compétence sur les technologies .NET, ou professionnel expérimenté désireux d'explorer de nouvelles architectures et approches, ces projets pratiques vous fourniront une expérience d'apprentissage immersive et applicable immédiatement dans votre parcours professionnel. En construisant ces applications de bout en bout, vous développerez non seulement des compétences techniques spécifiques, mais aussi une compréhension holistique du développement logiciel avec C# et .NET qui vous distinguera dans un environnement professionnel de plus en plus compétitif et spécialisé.
+
+⏭️

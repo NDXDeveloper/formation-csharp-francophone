@@ -1,4 +1,6 @@
- # 9. Accès aux données avec ADO.NET
+# 9. Accès aux données avec ADO.NET
+
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
 
 ![Accès aux données avec ADO.NET](https://via.placeholder.com/800x200?text=Acc%C3%A8s+aux+donn%C3%A9es+avec+ADO.NET)
 
@@ -27,3 +29,5 @@ Tout au long de ce chapitre, nous mettrons l'accent sur les bonnes pratiques qui
 Que vous développiez une nouvelle application nécessitant un accès aux données performant, que vous mainteniez un système existant, ou que vous cherchiez à améliorer vos compétences dans ce domaine fondamental, ce chapitre vous fournira les connaissances et techniques nécessaires pour maîtriser ADO.NET et l'exploiter à son plein potentiel.
 
 Embarquons ensemble dans cette exploration approfondie d'ADO.NET, une technologie qui, malgré l'émergence de frameworks d'accès aux données plus abstraits comme Entity Framework, demeure incontournable pour de nombreux scénarios nécessitant performance, contrôle précis et flexibilité maximale.
+
+⏭️

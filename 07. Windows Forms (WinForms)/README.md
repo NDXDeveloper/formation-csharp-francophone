@@ -1,5 +1,7 @@
 # 7. Windows Forms (WinForms)
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Windows Forms (WinForms)](https://via.placeholder.com/800x200?text=Windows+Forms+%28WinForms%29)
 
 ## Introduction
@@ -29,3 +31,5 @@ Enfin, nous aborderons l'un des défis les plus importants du développement d'i
 Que vous soyez un développeur débutant découvrant le développement d'interfaces utilisateur, un professionnel maintenant des applications existantes, ou un architecte cherchant à moderniser votre stack technologique, ce chapitre vous fournira les connaissances et techniques nécessaires pour exploiter pleinement le potentiel de Windows Forms dans l'écosystème .NET moderne.
 
 Embarquons ensemble dans cette exploration approfondie de Windows Forms, une technologie qui continue de démontrer sa valeur dans le paysage en constante évolution du développement d'applications Windows.
+
+⏭️

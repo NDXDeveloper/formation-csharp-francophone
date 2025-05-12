@@ -1,5 +1,6 @@
 # 4. Méthodes et fonctions
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
 
 Les méthodes et fonctions constituent le cœur de tout programme C# bien structuré. Elles sont les blocs fonctionnels qui encapsulent la logique, favorisent la réutilisation du code et permettent d'organiser vos applications en composants modulaires et maintenables.
 
@@ -24,3 +25,5 @@ Enfin, nous plongerons dans le monde des expressions lambda, ces fonctions anony
 Que vous développiez des applications d'entreprise complexes, des services web haute performance ou des applications grand public, maîtriser les méthodes et fonctions en C# vous permettra d'écrire du code plus propre, plus maintenable et plus efficace. Ce chapitre vous donnera les connaissances et les outils nécessaires pour y parvenir.
 
 Embarquons ensemble dans cette exploration des méthodes et fonctions en C#, l'un des aspects les plus fondamentaux et les plus puissants du langage.
+
+⏭️

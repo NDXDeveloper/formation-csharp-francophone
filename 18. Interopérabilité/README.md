@@ -1,5 +1,7 @@
 # 18. Interopérabilité
 
+🔝 Retour au [Sommaire](/SOMMAIRE.md)
+
 ![Interopérabilité](https://via.placeholder.com/800x200?text=Interop%C3%A9rabilit%C3%A9)
 
 ## Introduction
@@ -25,3 +27,5 @@ Nous mettrons également l'accent sur les considérations de sécurité inhéren
 Les exemples de code présentés seront systématiquement adaptés tant à .NET Framework 4.7.2 qu'à .NET 8, illustrant concrètement comment implémenter chaque forme d'interopérabilité dans ces environnements distincts. Cette dualité reflète la réalité du terrain, où de nombreuses organisations doivent maintenir et étendre des applications .NET Framework existantes tout en adoptant les nouvelles possibilités offertes par .NET Core et .NET 8.
 
 Que vous cherchiez à intégrer des bibliothèques natives pour des performances optimales, à communiquer avec des systèmes legacy via COM, à exploiter des outils spécialisés développés dans d'autres langages, à créer des applications web modernes, ou à concevoir des architectures cloud natives, ce chapitre vous fournira les connaissances et techniques nécessaires pour franchir les frontières technologiques avec confiance et efficacité. Dans un écosystème informatique de plus en plus fragmenté et spécialisé, ces compétences d'interopérabilité sont devenues un atout stratégique pour tout développeur .NET souhaitant créer des solutions complètes et intégrées.
+
+⏭️
