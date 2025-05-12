@@ -1,6 +1,6 @@
 # Formation C# Complète en Français
 
-![Logo C#](https://raw.githubusercontent.com/NDXDeveloper/formation-csharp-francophone/main/assets/csharp-logo.png)
+![Logo C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
 
 ## À propos de cette formation
 
